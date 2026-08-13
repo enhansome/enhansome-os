@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T03:45:49Z",
+            "last_commit": "2026-08-13T04:28:16Z",
             "owner": "SerenityOS",
             "repo": "serenity",
             "stars": 33752
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-05T17:27:01Z",
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24194
+            "stars": 24195
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T04:21:12Z",
+            "last_commit": "2026-08-13T16:17:27Z",
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16506
+            "stars": 16505
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-05T21:40:11Z",
             "owner": "bottlerocket-os",
             "repo": "bottlerocket",
-            "stars": 9660
+            "stars": 9662
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-22T22:19:15Z",
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7672
+            "stars": 7677
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2023-03-07T09:36:32Z",
             "owner": "NodeOS",
             "repo": "NodeOS",
-            "stars": 7347
+            "stars": 7346
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-13T02:11:58Z",
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 6879
+            "stars": 6881
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2026-08-12T08:43:20Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6823
+            "stars": 6822
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T01:32:52Z",
+            "last_commit": "2026-08-13T17:30:19Z",
             "owner": "tock",
             "repo": "tock",
             "stars": 6410
@@ -140,7 +140,7 @@
             "last_commit": "2023-12-03T22:02:00Z",
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4751
+            "stars": 4752
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2023-07-22T15:38:56Z",
             "owner": "icexin",
             "repo": "eggos",
-            "stars": 2324
+            "stars": 2323
           }
         },
         {
@@ -417,7 +417,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:45:44Z",
+            "last_commit": "2026-08-13T12:58:21Z",
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
             "stars": 1199
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T20:11:32Z",
+            "last_commit": "2026-08-13T17:13:03Z",
             "owner": "vinc",
             "repo": "moros",
             "stars": 1091
@@ -742,7 +742,7 @@
             "last_commit": "2026-03-16T15:40:36Z",
             "owner": "mentos-team",
             "repo": "MentOS",
-            "stars": 297
+            "stars": 298
           }
         },
         {
@@ -1075,7 +1075,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T22:11:45Z",
+            "last_commit": "2026-08-13T17:31:23Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 46
@@ -1287,10 +1287,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T15:31:28Z",
+            "last_commit": "2026-08-13T16:41:49Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 242659
+            "stars": 242741
           }
         },
         {
@@ -1304,7 +1304,7 @@
             "last_commit": "2024-04-25T22:32:47Z",
             "owner": "microsoft",
             "repo": "MS-DOS",
-            "stars": 32286
+            "stars": 32284
           }
         },
         {
@@ -1315,10 +1315,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T22:48:18Z",
+            "last_commit": "2026-08-13T14:31:20Z",
             "owner": "reactos",
             "repo": "reactos",
-            "stars": 17917
+            "stars": 17919
           }
         },
         {
@@ -1329,10 +1329,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T02:05:09Z",
+            "last_commit": "2026-08-13T16:40:09Z",
             "owner": "freebsd",
             "repo": "freebsd-src",
-            "stars": 9265
+            "stars": 9268
           }
         },
         {
@@ -1343,10 +1343,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T01:19:59Z",
+            "last_commit": "2026-08-13T09:20:01Z",
             "owner": "openbsd",
             "repo": "src",
-            "stars": 3854
+            "stars": 3856
           }
         },
         {
@@ -1360,7 +1360,7 @@
             "last_commit": "2026-06-18T03:58:44Z",
             "owner": "apple-oss-distributions",
             "repo": "xnu",
-            "stars": 3497
+            "stars": 3498
           }
         },
         {
@@ -1427,7 +1427,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30652
+            "stars": 30653
           }
         },
         {
@@ -1441,7 +1441,7 @@
             "last_commit": "2024-03-29T21:19:52Z",
             "owner": "s-matyukevich",
             "repo": "raspberry-pi-os",
-            "stars": 13910
+            "stars": 13909
           }
         },
         {
@@ -1528,10 +1528,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T21:38:48Z",
+            "last_commit": "2026-08-13T16:24:59Z",
             "owner": "google",
             "repo": "syzkaller",
-            "stars": 6297
+            "stars": 6298
           }
         },
         {
@@ -1593,7 +1593,7 @@
             "last_commit": "2026-08-11T15:58:06Z",
             "owner": "arighi",
             "repo": "virtme-ng",
-            "stars": 866
+            "stars": 867
           }
         },
         {
@@ -1657,7 +1657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:27:27.937Z",
+    "last_updated": "2026-08-13T17:34:18.609Z",
     "original_repository": "jubalh/awesome-os",
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
     "enhanced_repository": "enhansome/enhansome-os",
