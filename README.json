@@ -1,0 +1,1667 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serenity",
+          "description": "Graphical Unix-like operating system for x86 computers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:45:49Z",
+            "owner": "SerenityOS",
+            "repo": "serenity",
+            "stars": 33752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 95 in Electron",
+          "description": "Hobby Windows 95 implementation in Electron",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T17:27:01Z",
+            "owner": "felixrieseberg",
+            "repo": "windows95",
+            "stars": 24194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redox",
+          "description": "written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T04:21:12Z",
+            "owner": "redox-os",
+            "repo": "redox",
+            "stars": 16506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bottlerocket OS",
+          "description": "Linux-based OS meant for hosting containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-05T21:40:11Z",
+            "owner": "bottlerocket-os",
+            "repo": "bottlerocket",
+            "stars": 9660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeRTOS",
+          "description": ", GitHub - IoT operating system for microcontrollers, by Amazon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-22T22:19:15Z",
+            "owner": "FreeRTOS",
+            "repo": "FreeRTOS",
+            "stars": 7672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NodeOS",
+          "description": "OS using NodeJS and Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-07T09:36:32Z",
+            "owner": "NodeOS",
+            "repo": "NodeOS",
+            "stars": 7347
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RavynOS",
+          "description": "A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T02:11:58Z",
+            "owner": "ravynsoft",
+            "repo": "ravynos",
+            "stars": 6879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToaruOS",
+          "description": "Hobby operating system from scratch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T08:43:20Z",
+            "owner": "klange",
+            "repo": "toaruos",
+            "stars": 6823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tock",
+          "description": ", GitHub - A secure embedded operating system for microcontrollers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:32:52Z",
+            "owner": "tock",
+            "repo": "tock",
+            "stars": 6410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TempleOS",
+          "description": "Religious OS :-)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HolyC",
+            "last_commit": "2023-12-03T22:02:00Z",
+            "owner": "cia-foundation",
+            "repo": "TempleOS",
+            "stars": 4751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unikraft",
+          "description": "A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:15:54Z",
+            "owner": "unikraft",
+            "repo": "unikraft",
+            "stars": 3819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maestro",
+          "description": ", Blog - Operating system written in Rust, aiming to be a lightweight version of Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T12:19:23Z",
+            "owner": "maestro-os",
+            "repo": "maestro",
+            "stars": 3323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Theseus",
+          "description": "A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-09-22T18:48:20Z",
+            "owner": "theseus-os",
+            "repo": "Theseus",
+            "stars": 3181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nanos",
+          "description": "Unikernel that is linux-compatible, written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-09T06:01:27Z",
+            "owner": "nanovms",
+            "repo": "nanos",
+            "stars": 3177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tilck",
+          "description": "A Tiny Linux-Compatible Kernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T05:59:15Z",
+            "owner": "vvaltchev",
+            "repo": "tilck",
+            "stars": 3120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skiftOS",
+          "description": ", GitHub - A simple, handmade, operating system with a graphical user interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-08T18:55:47Z",
+            "owner": "skift-org",
+            "repo": "skift",
+            "stars": 2980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minoca OS",
+          "description": "General purpose OS, written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-17T08:35:39Z",
+            "owner": "minoca",
+            "repo": "os",
+            "stars": 2788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PureDarwin",
+          "description": "PureDarwin is a community project to extend Darwin into a complete, usable operating system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T00:13:37Z",
+            "owner": "PureDarwin",
+            "repo": "PureDarwin",
+            "stars": 2662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gopher-os",
+          "description": "A proof of concept OS kernel written in Go",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-08-29T02:08:35Z",
+            "owner": "gopher-os",
+            "repo": "gopher-os",
+            "stars": 2619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZealOS",
+          "description": "The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HolyC",
+            "last_commit": "2026-07-31T14:49:25Z",
+            "owner": "Zeal-Operating-System",
+            "repo": "ZealOS",
+            "stars": 2368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eggos",
+          "description": "A Go unikernel running on x86 bare metal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-07-22T15:38:56Z",
+            "owner": "icexin",
+            "repo": "eggos",
+            "stars": 2324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vinix",
+          "description": "Vinix is an effort to write a modern, fast, and useful operating system in the V programming language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "V",
+            "last_commit": "2026-06-18T21:50:43Z",
+            "owner": "vlang",
+            "repo": "vinix",
+            "stars": 2162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "managarm",
+          "description": "Pragmatic microkernel-based OS with fully asynchronous I/O",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:39:27Z",
+            "owner": "managarm",
+            "repo": "managarm",
+            "stars": 1962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thor",
+          "description": "64bit operating system mostly written in C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-19T10:12:06Z",
+            "owner": "wichtounet",
+            "repo": "thor-os",
+            "stars": 1718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "octox",
+          "description": "Unix-like OS in Rust inspired by xv6-riscv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-24T23:35:02Z",
+            "owner": "o8vm",
+            "repo": "octox",
+            "stars": 1636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HelenOS",
+          "description": "multikernel multiserver OS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-09T10:29:59Z",
+            "owner": "HelenOS",
+            "repo": "helenos",
+            "stars": 1580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interim",
+          "description": "Minimalist OS with concepts from Lisp machines and Plan9",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-06-11T16:41:45Z",
+            "owner": "mntmn",
+            "repo": "interim",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KnightOS",
+          "description": "for z80 calculators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2021-05-02T06:26:08Z",
+            "owner": "KnightOS",
+            "repo": "KnightOS",
+            "stars": 1315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LemonOS",
+          "description": ", GitHub - UNIX-like 64-bit operating system written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-23T05:32:27Z",
+            "owner": "LemonOSProject",
+            "repo": "LemonOS",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DragonOS",
+          "description": "An x86-64 OS build from scratch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:45:44Z",
+            "owner": "DragonOS-Community",
+            "repo": "DragonOS",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brutal",
+          "description": "An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-22T18:35:40Z",
+            "owner": "brutal-org",
+            "repo": "brutal",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moros",
+          "description": "MOROS is a hobby operating system written in Rust for the x86 architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:11:32Z",
+            "owner": "vinc",
+            "repo": "moros",
+            "stars": 1091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "soso",
+          "description": "Simple unix-like operating system written in Nasm assembly and mostly in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-26T20:57:00Z",
+            "owner": "ozkl",
+            "repo": "soso",
+            "stars": 986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fomos",
+          "description": "Experimental OS, built with Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-03T17:57:01Z",
+            "owner": "Ruddle",
+            "repo": "Fomos",
+            "stars": 973
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Basekernel",
+          "description": "A simple OS kernel for research, teaching, and fun",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-01-08T16:02:14Z",
+            "owner": "dthain",
+            "repo": "basekernel",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BareMetal",
+          "description": ", GitHub - 64 bit operating system written in Assembly for x86-64",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2026-06-12T19:06:32Z",
+            "owner": "ReturnInfinity",
+            "repo": "BareMetal",
+            "stars": 916
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cavOS",
+          "description": "Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-13T18:33:11Z",
+            "owner": "malwarepad",
+            "repo": "cavOS",
+            "stars": 728
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fiwix",
+          "description": ", GitHub - A UNIX-like kernel for the i386 architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-06T05:54:10Z",
+            "owner": "mikaku",
+            "repo": "Fiwix",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oneOS",
+          "description": "x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-06T10:38:29Z",
+            "owner": "opuntiaOS-Project",
+            "repo": "opuntiaOS",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opuntiaOS",
+          "description": "an operating system targeting x86, ARMv7, Aarch64.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-06T10:38:29Z",
+            "owner": "opuntiaOS-Project",
+            "repo": "opuntiaOS",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animal",
+          "description": "32 bit multithreaded operating system (formerly Gramado)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:29:41Z",
+            "owner": "frednora",
+            "repo": "gramado",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duckOS",
+          "description": "A hobby UNIX-like OS with a graphical window manager for x86 computers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-09-09T07:03:56Z",
+            "owner": "byteduck",
+            "repo": "duckOS",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PonyOS",
+          "description": ", GitHub - ToaruOS-based, My Little Pony themed OS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-01T04:49:42Z",
+            "owner": "klange",
+            "repo": "ponyos",
+            "stars": 575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "orange_slice",
+          "description": "A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-21T09:22:29Z",
+            "owner": "gamozolabs",
+            "repo": "orange_slice",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyjon",
+          "description": "pure x64 assembly language operating system (related to Fern-Night project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-08-26T11:07:04Z",
+            "owner": "CorruptedByCPU",
+            "repo": "Cyjon",
+            "stars": 461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MollenOS",
+          "description": "MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-11-25T15:28:20Z",
+            "owner": "Meulengracht",
+            "repo": "MollenOS",
+            "stars": 453
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PathOS",
+          "description": "Hobby OS based on MikeOS, written in Assembly Language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-07-12T20:16:17Z",
+            "owner": "mig-hub",
+            "repo": "mikeOS",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mOS",
+          "description": "A hobby operating system developed from scratch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-05T10:38:39Z",
+            "owner": "MQuy",
+            "repo": "mos",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "menix",
+          "description": "A minimal and expandable Unix-like operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T23:08:02Z",
+            "owner": "zinnia-os",
+            "repo": "zinnia",
+            "stars": 373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "willOS",
+          "description": "A minimal 64 bits kernel (Operating System that cannot \"operate\" a lot of things)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-30T19:20:11Z",
+            "owner": "willdurand",
+            "repo": "ArvernOS",
+            "stars": 342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "emerald",
+          "description": "An operating system kernel written for fun in C",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-08-30T08:48:09Z",
+            "owner": "rdmsr",
+            "repo": "emerald",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mimiker",
+          "description": ", GitHub - Simple unix-like operating system for education and research purposes. MIPS microkernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-09-03T22:15:30Z",
+            "owner": "cahirwpz",
+            "repo": "mimiker",
+            "stars": 307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MentOS",
+          "description": "An educational 32-bit linux-like Operating System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-16T15:40:36Z",
+            "owner": "mentos-team",
+            "repo": "MentOS",
+            "stars": 297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jehanne",
+          "description": ", GitHub - OS inspired by Plan9, 9front and Harvey OS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-06T18:02:20Z",
+            "owner": "JehanneOS",
+            "repo": "jehanne",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hhuOS",
+          "description": "hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T08:35:35Z",
+            "owner": "hhuOS",
+            "repo": "hhuOS",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rou2exOS",
+          "description": ", Blog - A second iteration of the DOS-like hobby OS written in Rust and x86_64 assembly",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-08T17:39:08Z",
+            "owner": "krustowski",
+            "repo": "rou2exOS",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeetixOS",
+          "description": "A hobby OS written in modern C++20 which aims to be Unix-like.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-04-24T17:07:00Z",
+            "owner": "MarcoCicognani",
+            "repo": "MeetixOS",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ultron OS",
+          "description": "x86 Operating System written in C++, High School Project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-12-22T14:08:26Z",
+            "owner": "aswinmohanme",
+            "repo": "ultronOS",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreenteaOS",
+          "description": ", Github - A free OS designed to be compatible with Windows executables",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-16T19:41:28Z",
+            "owner": "GreenteaOS",
+            "repo": "Greentea",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethereal",
+          "description": "Ethereal is an advanced modular operating system with support for networking and USB as well as a GUI-enabled userspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T16:19:06Z",
+            "owner": "sasdallas",
+            "repo": "Ethereal",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BoneOS",
+          "description": "OS for everyone built by everyone",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-12T01:09:03Z",
+            "owner": "Bone-Project",
+            "repo": "BoneOS",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExectOS",
+          "description": ", GitHub - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86_64 architectures and provides NT drivers compatibility layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T20:26:33Z",
+            "owner": "xt-sys",
+            "repo": "exectos",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleOS",
+          "description": "Simple Operating System coded in C and Assembly",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-10-18T16:32:59Z",
+            "owner": "xing1357",
+            "repo": "SimpleOS",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Charlotte",
+          "description": "CharlotteOS kernel in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-10-29T04:27:33Z",
+            "owner": "CharlotteOS-Deprecated",
+            "repo": "charlotte-core",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "L4re",
+          "description": "Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-31T14:03:16Z",
+            "owner": "kernkonzept",
+            "repo": "l4re-core",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Northport",
+          "description": "Monolithic kernel and support libraries for riscv64 and x86_64.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-04T06:49:56Z",
+            "owner": "DeanoBurrito",
+            "repo": "northport",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaslOS",
+          "description": "A 64 bit GUI multitasking Hobby OS written mostly from scratch in C++ and a bit of C/ASM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-08T21:21:22Z",
+            "owner": "marceldobehere",
+            "repo": "MaslOS",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mimosa",
+          "description": ", GitHub - Research Operating System that runs Scheme on bare-metal",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-11-18T17:39:47Z",
+            "owner": "udem-dlteam",
+            "repo": "mimosa",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ackOS",
+          "description": "A simple 64-bit operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-14T10:11:26Z",
+            "owner": "ackOS-project",
+            "repo": "ackOS",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "r3",
+          "description": "A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-09-26T11:44:39Z",
+            "owner": "Narasimha1997",
+            "repo": "r3",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sanos",
+          "description": ", GitHub - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-17T13:17:13Z",
+            "owner": "ringgaard",
+            "repo": "sanos",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AlmeidaOS",
+          "description": "x86-64 OS with its own bootloader, scheduler and limited libc all written from scratch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-05-05T23:51:41Z",
+            "owner": "PauloMigAlmeida",
+            "repo": "AlmeidaOS",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSD-OS",
+          "description": "A small operating system for 32 bit x86.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-23T18:29:46Z",
+            "owner": "pgrAm",
+            "repo": "JSD-OS",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mako",
+          "description": "Hobby OS for x86 from scratch, written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-12T17:35:04Z",
+            "owner": "AjayMT",
+            "repo": "mako",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiddieOS",
+          "description": "UNIX-like 64-bit operating system written in Assembly, C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2025-10-14T01:42:35Z",
+            "owner": "FrancisBFTC",
+            "repo": "KiddieOS_Development",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nopeos",
+          "description": "Simple OS kernel with BASIC interpreter for x86",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-17T12:21:07Z",
+            "owner": "d99kris",
+            "repo": "nopeos",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stanix",
+          "description": "An open source modular hobby OS in C, with features such as dynamic linking and a page cache.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:11:45Z",
+            "owner": "tayoky",
+            "repo": "stanix",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hydrogen",
+          "description": "toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-03-13T03:07:34Z",
+            "owner": "mszoek",
+            "repo": "hydrogen",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SynestiaOS",
+          "description": "32/64 bit operating system written in C for arm platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-09-25T10:58:40Z",
+            "owner": "SynestiaOS",
+            "repo": "SynestiaOS",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pidi OS",
+          "description": "Independent and minimalistic OS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-07T12:45:10Z",
+            "owner": "GandelXIV",
+            "repo": "pidi-os",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SayoriOS",
+          "description": "Hobby OS for x86 computers, currently under active development, written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-07-10T05:11:50Z",
+            "owner": "pimnik98",
+            "repo": "SayoriOS",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AurixOS",
+          "description": "A small multiplatform Operating System designed for developers and creators",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-19T13:39:18Z",
+            "owner": "piraterna",
+            "repo": "aurix",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unox-os",
+          "description": "Unox is an educational unix-like operating system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-08-24T03:00:34Z",
+            "owner": "bistcuite",
+            "repo": "unox-os",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fern-Night",
+          "description": "C language operating system (related to Cyjon project).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-16T13:30:26Z",
+            "owner": "CorruptedByCPU",
+            "repo": "Fern-Night",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "myOS",
+          "description": "Under development and Maintenance by a single Undergraduate who just wanted his machine to execute his own instructions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-24T00:15:21Z",
+            "owner": "badnikhil",
+            "repo": "MyOS",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PouplyOS",
+          "description": "Simple OS for fun and learning, named after the ESISAR mascot Poulpy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-05-14T11:38:45Z",
+            "owner": "mtribiere",
+            "repo": "PoulpyOS",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aurora_os",
+          "description": "Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T23:52:08Z",
+            "owner": "Athryx",
+            "repo": "aurora_os",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lyre",
+          "description": "x86 kernel and distribution powered by mlibc, GNU userland tools, and other common *nix software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-04T23:21:28Z",
+            "owner": "Lyre-OS",
+            "repo": "Lyre",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lateralus OS",
+          "description": "Bare-metal OS written in Lateralus with its own pipeline-native programming language, compiler, and VM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T15:36:26Z",
+            "owner": "bad-antics",
+            "repo": "lateralus-lang",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arikoto",
+          "description": ", GitHub - A Limine protocol, x86_64, C based personal Operating System development project that is inspired by and is aiming to have a similar nature to ToaruOS",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Gloire",
+          "description": "An OS built with the Ironclad kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Ovation",
+          "description": "A simple, hobby, 64-bit operating system that focuses on simplicity, portability and maintainability. Written in C.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "pranaOS",
+          "description": "A unix operating system written from scratch in c / c++",
+          "children": []
+        }
+      ],
+      "title": "Open Source Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linux",
+          "description": "Linux kernel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:31:28Z",
+            "owner": "torvalds",
+            "repo": "linux",
+            "stars": 242659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MS-DOS",
+          "description": "The original sources of MS-DOS 1.25 and 2.0",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Assembly",
+            "last_commit": "2024-04-25T22:32:47Z",
+            "owner": "microsoft",
+            "repo": "MS-DOS",
+            "stars": 32286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactOS",
+          "description": ", Github - A free Windows-compatible Operating System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:48:18Z",
+            "owner": "reactos",
+            "repo": "reactos",
+            "stars": 17917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FreeBSD",
+          "description": ", Github - Unix-like operating system based on the BSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T02:05:09Z",
+            "owner": "freebsd",
+            "repo": "freebsd-src",
+            "stars": 9265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenBSD",
+          "description": ", Github - Unix-like operating system based on the BSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T01:19:59Z",
+            "owner": "openbsd",
+            "repo": "src",
+            "stars": 3854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darwin XNU",
+          "description": "The XNU kernel source code for use in MacOS and iOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-18T03:58:44Z",
+            "owner": "apple-oss-distributions",
+            "repo": "xnu",
+            "stars": 3497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minix",
+          "description": ", Github - Unix-like operating system based on a microkernel architecture",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-18T14:58:45Z",
+            "owner": "Stichting-MINIX-Research-Foundation",
+            "repo": "minix",
+            "stars": 3493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haiku",
+          "description": "BeOS inspired OS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:00:08Z",
+            "owner": "haiku",
+            "repo": "haiku",
+            "stars": 2309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetBSD",
+          "description": ", Github - Unix-like operating system based on the BSD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T18:49:44Z",
+            "owner": "NetBSD",
+            "repo": "src",
+            "stars": 973
+          }
+        }
+      ],
+      "title": "Popular Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books and Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "os-tutorial - How to create an OS from scratch",
+          "description": "by Carlos Fenollosa",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T09:33:56Z",
+            "owner": "cfenollosa",
+            "repo": "os-tutorial",
+            "stars": 30652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning operating system development using Linux kernel and Raspberry Pi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-29T21:19:52Z",
+            "owner": "s-matyukevich",
+            "repo": "raspberry-pi-os",
+            "stars": 13910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How to write a Linux kernel patch and submit it",
+          "description": "by Greg Kroah-Hartman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-03-26T19:32:57Z",
+            "owner": "gregkh",
+            "repo": "kernel-tutorial",
+            "stars": 1260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Build a minimal multi-tasking OS kernel for ARM from scratch",
+          "description": "by Jim Huang",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-12-14T15:44:05Z",
+            "owner": "jserv",
+            "repo": "mini-arm-os",
+            "stars": 1252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Presentation on how the Linux kernel is developed",
+          "description": "by Greg Kroah-Hartman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-07-28T19:59:51Z",
+            "owner": "gregkh",
+            "repo": "kernel-development",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mya",
+          "description": "a fun project to create OS from scratch by Erfan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2024-02-21T07:37:57Z",
+            "owner": "flydeoo",
+            "repo": "mya",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "xairys Linux Kernel Exploitation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T20:13:20Z",
+            "owner": "xairy",
+            "repo": "linux-kernel-exploitation",
+            "stars": 6593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "syzkaller",
+          "description": "kernel fuzzer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:38:48Z",
+            "owner": "google",
+            "repo": "syzkaller",
+            "stars": 6297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kernel-security-learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-05-29T05:09:20Z",
+            "owner": "bsauce",
+            "repo": "kernel-security-learning",
+            "stars": 772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sam4ks Linux Kernel Resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-11-03T21:47:00Z",
+            "owner": "sam4k",
+            "repo": "linux-kernel-resources",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fibdrv Linux kernel module that calculates Fibonacci numbers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-24T09:56:50Z",
+            "owner": "sysprog21",
+            "repo": "fibdrv",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "Linux specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "virtme-ng",
+          "description": "quickly build and run kernels inside a virtualized snapshot of your live system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:58:06Z",
+            "owner": "arighi",
+            "repo": "virtme-ng",
+            "stars": 866
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kworkflow",
+          "description": "reduce the overhead with infrastructure setup for Linux development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-01T23:17:10Z",
+            "owner": "kworkflow",
+            "repo": "kworkflow",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "b4",
+          "description": ", docu, a tool to help with email-based patch workflows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:44:38Z",
+            "owner": "mricon",
+            "repo": "b4",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hackermail",
+          "description": "a mails management tool for hackers who collaborate using mailing lists",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T03:18:25Z",
+            "owner": "sjp38",
+            "repo": "hackermail",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clang-extract",
+          "description": "a tool to extract code content from source files using the clang and LLVM infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-29T23:36:48Z",
+            "owner": "SUSE",
+            "repo": "clang-extract",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:27.937Z",
+    "original_repository": "jubalh/awesome-os",
+    "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
+    "enhanced_repository": "enhansome/enhansome-os",
+    "enhanced_repository_description": null,
+    "title": "Awesome Operating System Stuff with stars"
+  }
+}
