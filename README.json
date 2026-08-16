@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T06:05:18Z",
+            "last_commit": "2026-08-16T14:57:03Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33757
+            "stars": 33758
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-05T17:27:01Z",
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24195
+            "stars": 24196
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-22T22:19:15Z",
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7685
+            "stars": 7689
           }
         },
         {
@@ -95,10 +95,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T02:11:58Z",
+            "last_commit": "2026-08-16T07:18:33Z",
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 6885
+            "stars": 6887
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T22:00:07Z",
+            "last_commit": "2026-08-15T21:28:00Z",
             "owner": "tock",
             "repo": "tock",
             "stars": 6411
@@ -140,7 +140,7 @@
             "last_commit": "2023-12-03T22:02:00Z",
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4758
+            "stars": 4757
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2026-08-12T16:15:54Z",
             "owner": "unikraft",
             "repo": "unikraft",
-            "stars": 3822
+            "stars": 3824
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-08-11T12:19:23Z",
             "owner": "maestro-os",
             "repo": "maestro",
-            "stars": 3321
+            "stars": 3323
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2024-09-22T18:48:20Z",
             "owner": "theseus-os",
             "repo": "Theseus",
-            "stars": 3181
+            "stars": 3182
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-08-09T06:01:27Z",
             "owner": "nanovms",
             "repo": "nanos",
-            "stars": 3177
+            "stars": 3179
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-07-08T18:55:47Z",
             "owner": "skift-org",
             "repo": "skift",
-            "stars": 2980
+            "stars": 2981
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-07-31T14:49:25Z",
             "owner": "Zeal-Operating-System",
             "repo": "ZealOS",
-            "stars": 2371
+            "stars": 2374
           }
         },
         {
@@ -319,7 +319,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T14:10:46Z",
+            "last_commit": "2026-08-16T11:56:51Z",
             "owner": "managarm",
             "repo": "managarm",
             "stars": 1963
@@ -364,7 +364,7 @@
             "last_commit": "2026-07-09T10:29:59Z",
             "owner": "HelenOS",
             "repo": "helenos",
-            "stars": 1580
+            "stars": 1578
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2024-11-23T05:32:27Z",
             "owner": "LemonOSProject",
             "repo": "LemonOS",
-            "stars": 1295
+            "stars": 1296
           }
         },
         {
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T16:15:53Z",
+            "last_commit": "2026-08-16T16:49:26Z",
             "owner": "vinc",
             "repo": "moros",
             "stars": 1091
@@ -504,7 +504,7 @@
             "last_commit": "2026-06-12T19:06:32Z",
             "owner": "ReturnInfinity",
             "repo": "BareMetal",
-            "stars": 917
+            "stars": 918
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2026-06-13T18:33:11Z",
             "owner": "malwarepad",
             "repo": "cavOS",
-            "stars": 729
+            "stars": 730
           }
         },
         {
@@ -532,7 +532,7 @@
             "last_commit": "2026-08-06T05:54:10Z",
             "owner": "mikaku",
             "repo": "Fiwix",
-            "stars": 681
+            "stars": 682
           }
         },
         {
@@ -571,7 +571,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T12:42:46Z",
+            "last_commit": "2026-08-16T02:01:06Z",
             "owner": "frednora",
             "repo": "gramado",
             "stars": 653
@@ -921,7 +921,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-04T06:49:56Z",
+            "last_commit": "2026-08-16T13:05:23Z",
             "owner": "DeanoBurrito",
             "repo": "northport",
             "stars": 102
@@ -971,6 +971,20 @@
         },
         {
           "node_type": "item",
+          "title": "Sanos",
+          "description": ", GitHub - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2020-10-17T13:17:13Z",
+            "owner": "ringgaard",
+            "repo": "sanos",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
           "title": "r3",
           "description": "A hobby x86_64 Operating System kernel written in Rust -- with minimal functionalities",
           "children": [],
@@ -981,20 +995,6 @@
             "owner": "Narasimha1997",
             "repo": "r3",
             "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sanos",
-          "description": ", GitHub - Sanos is a minimalistic 32-bit x86 operating system kernel for network server appliances running on standard PC hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2020-10-17T13:17:13Z",
-            "owner": "ringgaard",
-            "repo": "sanos",
-            "stars": 83
           }
         },
         {
@@ -1075,7 +1075,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T16:43:47Z",
+            "last_commit": "2026-08-16T16:24:41Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 46
@@ -1290,7 +1290,7 @@
             "last_commit": "2026-08-15T16:00:10Z",
             "owner": "torvalds",
             "repo": "linux",
-            "stars": 242922
+            "stars": 243022
           }
         },
         {
@@ -1304,7 +1304,7 @@
             "last_commit": "2024-04-25T22:32:47Z",
             "owner": "microsoft",
             "repo": "MS-DOS",
-            "stars": 32283
+            "stars": 32282
           }
         },
         {
@@ -1315,10 +1315,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T00:51:18Z",
+            "last_commit": "2026-08-16T14:42:25Z",
             "owner": "reactos",
             "repo": "reactos",
-            "stars": 17927
+            "stars": 17931
           }
         },
         {
@@ -1329,10 +1329,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T15:55:09Z",
+            "last_commit": "2026-08-16T16:45:17Z",
             "owner": "freebsd",
             "repo": "freebsd-src",
-            "stars": 9272
+            "stars": 9273
           }
         },
         {
@@ -1343,10 +1343,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T12:19:40Z",
+            "last_commit": "2026-08-16T16:50:13Z",
             "owner": "openbsd",
             "repo": "src",
-            "stars": 3861
+            "stars": 3860
           }
         },
         {
@@ -1360,7 +1360,7 @@
             "last_commit": "2026-06-18T03:58:44Z",
             "owner": "apple-oss-distributions",
             "repo": "xnu",
-            "stars": 3505
+            "stars": 3506
           }
         },
         {
@@ -1374,7 +1374,7 @@
             "last_commit": "2024-03-18T14:58:45Z",
             "owner": "Stichting-MINIX-Research-Foundation",
             "repo": "minix",
-            "stars": 3491
+            "stars": 3492
           }
         },
         {
@@ -1388,7 +1388,7 @@
             "last_commit": "2026-08-15T09:00:06Z",
             "owner": "haiku",
             "repo": "haiku",
-            "stars": 2311
+            "stars": 2313
           }
         },
         {
@@ -1427,7 +1427,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30654
+            "stars": 30656
           }
         },
         {
@@ -1517,7 +1517,7 @@
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6594
+            "stars": 6593
           }
         },
         {
@@ -1649,7 +1649,7 @@
             "last_commit": "2026-05-29T23:36:48Z",
             "owner": "SUSE",
             "repo": "clang-extract",
-            "stars": 32
+            "stars": 33
           }
         }
       ],
@@ -1657,7 +1657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:54:47.736Z",
+    "last_updated": "2026-08-16T16:55:16.797Z",
     "original_repository": "jubalh/awesome-os",
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
     "enhanced_repository": "enhansome/enhansome-os",
