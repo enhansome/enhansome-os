@@ -15,7 +15,7 @@
             "last_commit": "2026-08-19T00:38:15Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33761
+            "stars": 33762
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 34275705,
             "language": "Rust",
-            "last_commit": "2026-08-19T01:27:47Z",
+            "last_commit": "2026-08-19T14:17:44Z",
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16516
+            "stars": 16517
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-18T22:53:00Z",
+            "last_commit": "2026-08-19T16:57:38Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6413
+            "stars": 6414
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-12-03T22:02:00Z",
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4767
+            "stars": 4768
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-18T04:48:13Z",
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2664
+            "stars": 2665
           }
         },
         {
@@ -447,7 +447,7 @@
             "archived": false,
             "id": 448203875,
             "language": "Rust",
-            "last_commit": "2026-08-18T07:06:54Z",
+            "last_commit": "2026-08-19T16:47:48Z",
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
             "stars": 1200
@@ -465,7 +465,7 @@
             "last_commit": "2023-08-22T18:35:40Z",
             "owner": "brutal-org",
             "repo": "brutal",
-            "stars": 1111
+            "stars": 1110
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 102483713,
             "language": "C",
-            "last_commit": "2026-08-19T01:24:01Z",
+            "last_commit": "2026-08-19T15:13:12Z",
             "owner": "frednora",
             "repo": "gramado",
             "stars": 653
@@ -1152,7 +1152,7 @@
             "archived": false,
             "id": 908942752,
             "language": "C",
-            "last_commit": "2026-08-19T07:40:54Z",
+            "last_commit": "2026-08-19T16:57:55Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 46
@@ -1349,10 +1349,10 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-19T02:54:46Z",
+                "last_commit": "2026-08-19T15:51:49Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 243285
+                "stars": 243307
               }
             },
             {
@@ -1394,7 +1394,7 @@
                 "archived": false,
                 "id": 2328181,
                 "language": "C",
-                "last_commit": "2026-08-19T12:25:19Z",
+                "last_commit": "2026-08-19T16:05:09Z",
                 "owner": "freebsd",
                 "repo": "freebsd-src",
                 "stars": 9278
@@ -1409,7 +1409,7 @@
                 "archived": false,
                 "id": 66966208,
                 "language": "C",
-                "last_commit": "2026-08-19T11:19:53Z",
+                "last_commit": "2026-08-19T12:49:36Z",
                 "owner": "openbsd",
                 "repo": "src",
                 "stars": 3861
@@ -1454,7 +1454,7 @@
                 "archived": false,
                 "id": 1904156,
                 "language": "C++",
-                "last_commit": "2026-08-19T03:00:07Z",
+                "last_commit": "2026-08-19T15:00:08Z",
                 "owner": "haiku",
                 "repo": "haiku",
                 "stars": 2315
@@ -1500,7 +1500,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30658
+                "stars": 30657
               }
             },
             {
@@ -1675,7 +1675,7 @@
                 "archived": false,
                 "id": 563718542,
                 "language": "Python",
-                "last_commit": "2026-08-18T08:18:18Z",
+                "last_commit": "2026-08-19T13:40:19Z",
                 "owner": "arighi",
                 "repo": "virtme-ng",
                 "stars": 869
@@ -1751,7 +1751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:43:45.798Z",
+    "last_updated": "2026-08-19T16:58:45.515Z",
     "original_repository": "jubalh/awesome-os",
     "original_repository_id": 82377935,
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
