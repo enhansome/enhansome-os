@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160083795,
             "language": "C++",
-            "last_commit": "2026-08-18T13:25:45Z",
+            "last_commit": "2026-08-19T00:38:15Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33760
+            "stars": 33761
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145803079,
             "language": "TypeScript",
             "last_commit": "2026-08-05T17:27:01Z",
             "owner": "felixrieseberg",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34275705,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:21:17Z",
+            "last_commit": "2026-08-19T01:27:47Z",
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16512
+            "stars": 16516
           }
         },
         {
@@ -52,8 +55,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179385712,
             "language": "Rust",
-            "last_commit": "2026-08-05T21:40:11Z",
+            "last_commit": "2026-08-19T05:25:27Z",
             "owner": "bottlerocket-os",
             "repo": "bottlerocket",
             "stars": 9662
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206121828,
             "language": "C",
             "last_commit": "2026-07-22T22:19:15Z",
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7696
+            "stars": 7700
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11572519,
             "language": "Shell",
             "last_commit": "2023-03-07T09:36:32Z",
             "owner": "NodeOS",
             "repo": "NodeOS",
-            "stars": 7345
+            "stars": 7344
           }
         },
         {
@@ -94,8 +100,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 334777857,
             "language": "C",
-            "last_commit": "2026-08-16T07:18:33Z",
+            "last_commit": "2026-08-19T03:19:16Z",
             "owner": "ravynsoft",
             "repo": "ravynos",
             "stars": 6886
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-18T12:37:01Z",
+            "last_commit": "2026-08-19T12:14:19Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6820
+            "stars": 6822
           }
         },
         {
@@ -122,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:51:50Z",
+            "last_commit": "2026-08-18T22:53:00Z",
             "owner": "tock",
             "repo": "tock",
             "stars": 6413
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79728799,
             "language": "HolyC",
             "last_commit": "2023-12-03T22:02:00Z",
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4765
+            "stars": 4767
           }
         },
         {
@@ -150,11 +160,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181022316,
             "language": "C",
             "last_commit": "2026-08-12T16:15:54Z",
             "owner": "unikraft",
             "repo": "unikraft",
-            "stars": 3825
+            "stars": 3824
           }
         },
         {
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317027600,
             "language": "Rust",
             "last_commit": "2026-08-11T12:19:23Z",
             "owner": "maestro-os",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97989275,
             "language": "Rust",
             "last_commit": "2024-09-22T18:48:20Z",
             "owner": "theseus-os",
@@ -192,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115159616,
             "language": "C",
             "last_commit": "2026-08-09T06:01:27Z",
             "owner": "nanovms",
             "repo": "nanos",
-            "stars": 3179
+            "stars": 3180
           }
         },
         {
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53845595,
             "language": "C",
             "last_commit": "2026-08-03T05:59:15Z",
             "owner": "vvaltchev",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145472407,
             "language": "C++",
             "last_commit": "2026-07-08T18:55:47Z",
             "owner": "skift-org",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72385590,
             "language": "C",
             "last_commit": "2021-12-17T08:35:39Z",
             "owner": "minoca",
@@ -248,11 +265,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27672462,
             "language": "C",
             "last_commit": "2026-08-18T04:48:13Z",
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2663
+            "stars": 2664
           }
         },
         {
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85822612,
             "language": "Go",
             "last_commit": "2020-08-29T02:08:35Z",
             "owner": "gopher-os",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381741497,
             "language": "HolyC",
             "last_commit": "2026-07-31T14:49:25Z",
             "owner": "Zeal-Operating-System",
@@ -290,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302390676,
             "language": "Go",
             "last_commit": "2023-07-22T15:38:56Z",
             "owner": "icexin",
             "repo": "eggos",
-            "stars": 2322
+            "stars": 2323
           }
         },
         {
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221905326,
             "language": "V",
             "last_commit": "2026-06-18T21:50:43Z",
             "owner": "vlang",
@@ -318,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63081862,
             "language": "C++",
             "last_commit": "2026-08-17T19:07:46Z",
             "owner": "managarm",
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13440471,
             "language": "C++",
             "last_commit": "2024-11-19T10:12:06Z",
             "owner": "wichtounet",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 360037018,
             "language": "Rust",
             "last_commit": "2025-09-24T23:35:02Z",
             "owner": "o8vm",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106721941,
             "language": "C",
             "last_commit": "2026-07-09T10:29:59Z",
             "owner": "HelenOS",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31344015,
             "language": "C",
             "last_commit": "2021-06-11T16:41:45Z",
             "owner": "mntmn",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5879057,
             "language": "Assembly",
             "last_commit": "2021-05-02T06:26:08Z",
             "owner": "KnightOS",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186245191,
             "language": "C++",
             "last_commit": "2024-11-23T05:32:27Z",
             "owner": "LemonOSProject",
@@ -416,6 +445,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 448203875,
             "language": "Rust",
             "last_commit": "2026-08-18T07:06:54Z",
             "owner": "DragonOS-Community",
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 373449678,
             "language": "C",
             "last_commit": "2023-08-22T18:35:40Z",
             "owner": "brutal-org",
@@ -444,8 +475,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 230675285,
             "language": "Rust",
-            "last_commit": "2026-08-17T06:03:09Z",
+            "last_commit": "2026-08-19T06:03:09Z",
             "owner": "vinc",
             "repo": "moros",
             "stars": 1091
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113664725,
             "language": "C",
             "last_commit": "2026-07-26T20:57:00Z",
             "owner": "ozkl",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 681309594,
             "language": "Rust",
             "last_commit": "2023-09-03T17:57:01Z",
             "owner": "Ruddle",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48499743,
             "language": "C",
             "last_commit": "2026-01-08T16:02:14Z",
             "owner": "dthain",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22650819,
             "language": "Assembly",
             "last_commit": "2026-06-12T19:06:32Z",
             "owner": "ReturnInfinity",
@@ -514,11 +550,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 416483524,
             "language": "C",
             "last_commit": "2026-06-13T18:33:11Z",
             "owner": "malwarepad",
             "repo": "cavOS",
-            "stars": 731
+            "stars": 730
           }
         },
         {
@@ -528,6 +565,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129542762,
             "language": "C",
             "last_commit": "2026-08-17T07:38:19Z",
             "owner": "mikaku",
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195193555,
             "language": "C",
             "last_commit": "2023-04-06T10:38:29Z",
             "owner": "opuntiaOS-Project",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 195193555,
             "language": "C",
             "last_commit": "2023-04-06T10:38:29Z",
             "owner": "opuntiaOS-Project",
@@ -570,8 +610,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102483713,
             "language": "C",
-            "last_commit": "2026-08-18T14:00:29Z",
+            "last_commit": "2026-08-19T01:24:01Z",
             "owner": "frednora",
             "repo": "gramado",
             "stars": 653
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 268658891,
             "language": "C++",
             "last_commit": "2024-09-09T07:03:56Z",
             "owner": "byteduck",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9084577,
             "language": "C",
             "last_commit": "2026-04-01T04:49:42Z",
             "owner": "klange",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180018547,
             "language": "Rust",
             "last_commit": "2021-03-21T09:22:29Z",
             "owner": "gamozolabs",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212788343,
             "language": "Assembly",
             "last_commit": "2024-08-26T11:07:04Z",
             "owner": "CorruptedByCPU",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19471576,
             "language": "C",
             "last_commit": "2024-11-25T15:28:20Z",
             "owner": "Meulengracht",
@@ -654,6 +700,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 987572,
             "language": "Assembly",
             "last_commit": "2022-07-12T20:16:17Z",
             "owner": "mig-hub",
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172999551,
             "language": "C",
             "last_commit": "2021-12-05T10:38:39Z",
             "owner": "MQuy",
@@ -682,11 +730,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 746429507,
             "language": "Rust",
             "last_commit": "2026-08-07T23:08:02Z",
             "owner": "zinnia-os",
             "repo": "zinnia",
-            "stars": 373
+            "stars": 374
           }
         },
         {
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91887197,
             "language": "C",
             "last_commit": "2024-01-30T19:20:11Z",
             "owner": "willdurand",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 278410779,
             "language": "C",
             "last_commit": "2021-08-30T08:48:09Z",
             "owner": "rdmsr",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46346617,
             "language": "C",
             "last_commit": "2024-09-03T22:15:30Z",
             "owner": "cahirwpz",
@@ -738,8 +790,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185773406,
             "language": "C",
-            "last_commit": "2026-08-17T18:15:36Z",
+            "last_commit": "2026-08-19T09:49:23Z",
             "owner": "mentos-team",
             "repo": "MentOS",
             "stars": 301
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48393782,
             "language": "C",
             "last_commit": "2022-01-06T18:02:20Z",
             "owner": "JehanneOS",
@@ -766,8 +820,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122970971,
             "language": "C++",
-            "last_commit": "2026-08-17T20:42:58Z",
+            "last_commit": "2026-08-19T08:10:44Z",
             "owner": "hhuOS",
             "repo": "hhuOS",
             "stars": 231
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 991214833,
             "language": "Rust",
             "last_commit": "2026-07-08T17:39:08Z",
             "owner": "krustowski",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65380056,
             "language": "C++",
             "last_commit": "2023-04-24T17:07:00Z",
             "owner": "MarcoCicognani",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64579749,
             "language": "C++",
             "last_commit": "2017-12-22T14:08:26Z",
             "owner": "aswinmohanme",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146012153,
             "language": null,
             "last_commit": "2026-04-16T19:41:28Z",
             "owner": "GreenteaOS",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 450146946,
             "language": "C",
             "last_commit": "2026-08-12T16:19:06Z",
             "owner": "sasdallas",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62652468,
             "language": "C",
             "last_commit": "2024-08-12T01:09:03Z",
             "owner": "Bone-Project",
@@ -864,8 +925,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 514956714,
             "language": "C++",
-            "last_commit": "2026-08-18T10:09:02Z",
+            "last_commit": "2026-08-18T21:18:29Z",
             "owner": "xt-sys",
             "repo": "exectos",
             "stars": 138
@@ -878,6 +940,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 372853005,
             "language": "C",
             "last_commit": "2024-10-18T16:32:59Z",
             "owner": "xing1357",
@@ -892,6 +955,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 741817847,
             "language": "Rust",
             "last_commit": "2024-10-29T04:27:33Z",
             "owner": "CharlotteOS-Deprecated",
@@ -906,6 +970,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139454086,
             "language": "C++",
             "last_commit": "2026-07-31T14:03:16Z",
             "owner": "kernkonzept",
@@ -920,8 +985,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 430583309,
             "language": "C++",
-            "last_commit": "2026-08-16T13:05:23Z",
+            "last_commit": "2026-08-19T09:59:26Z",
             "owner": "DeanoBurrito",
             "repo": "northport",
             "stars": 102
@@ -934,6 +1000,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 457552688,
             "language": "C++",
             "last_commit": "2024-05-08T21:21:22Z",
             "owner": "marceldobehere",
@@ -948,6 +1015,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185091423,
             "language": "C",
             "last_commit": "2020-11-18T17:39:47Z",
             "owner": "udem-dlteam",
@@ -962,6 +1030,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 284416569,
             "language": "C",
             "last_commit": "2024-12-14T10:11:26Z",
             "owner": "ackOS-project",
@@ -976,6 +1045,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23992225,
             "language": "C",
             "last_commit": "2020-10-17T13:17:13Z",
             "owner": "ringgaard",
@@ -990,6 +1060,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420609697,
             "language": "Rust",
             "last_commit": "2022-09-26T11:44:39Z",
             "owner": "Narasimha1997",
@@ -1004,6 +1075,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328301927,
             "language": "C",
             "last_commit": "2022-05-05T23:51:41Z",
             "owner": "PauloMigAlmeida",
@@ -1018,6 +1090,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171043471,
             "language": "C++",
             "last_commit": "2022-07-23T18:29:46Z",
             "owner": "pgrAm",
@@ -1032,6 +1105,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185292840,
             "language": "C",
             "last_commit": "2025-07-12T17:35:04Z",
             "owner": "AjayMT",
@@ -1046,6 +1120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291154575,
             "language": "Assembly",
             "last_commit": "2025-10-14T01:42:35Z",
             "owner": "FrancisBFTC",
@@ -1060,6 +1135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35677073,
             "language": "C",
             "last_commit": "2026-05-17T12:21:07Z",
             "owner": "d99kris",
@@ -1074,8 +1150,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 908942752,
             "language": "C",
-            "last_commit": "2026-08-18T16:53:28Z",
+            "last_commit": "2026-08-19T07:40:54Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 46
@@ -1088,6 +1165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 246973194,
             "language": "C++",
             "last_commit": "2020-03-13T03:07:34Z",
             "owner": "mszoek",
@@ -1102,6 +1180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 259013777,
             "language": "C",
             "last_commit": "2021-09-25T10:58:40Z",
             "owner": "SynestiaOS",
@@ -1116,6 +1195,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350798217,
             "language": "C",
             "last_commit": "2022-12-07T12:45:10Z",
             "owner": "GandelXIV",
@@ -1130,6 +1210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 537156708,
             "language": "C",
             "last_commit": "2025-07-10T05:11:50Z",
             "owner": "pimnik98",
@@ -1144,6 +1225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 782525112,
             "language": "C",
             "last_commit": "2026-04-19T13:39:18Z",
             "owner": "piraterna",
@@ -1158,6 +1240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 421851345,
             "language": "C",
             "last_commit": "2022-08-24T03:00:34Z",
             "owner": "bistcuite",
@@ -1172,6 +1255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 563854114,
             "language": "C",
             "last_commit": "2024-08-16T13:30:26Z",
             "owner": "CorruptedByCPU",
@@ -1186,6 +1270,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1114430778,
             "language": "C",
             "last_commit": "2026-06-24T00:15:21Z",
             "owner": "badnikhil",
@@ -1200,6 +1285,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372626822,
             "language": "C",
             "last_commit": "2023-05-14T11:38:45Z",
             "owner": "mtribiere",
@@ -1214,6 +1300,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417714981,
             "language": "Rust",
             "last_commit": "2026-08-03T23:52:08Z",
             "owner": "Athryx",
@@ -1228,6 +1315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 282425190,
             "language": "Shell",
             "last_commit": "2026-03-04T23:21:28Z",
             "owner": "Lyre-OS",
@@ -1242,6 +1330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200572794,
             "language": "Python",
             "last_commit": "2026-08-01T15:36:26Z",
             "owner": "bad-antics",
@@ -1250,261 +1339,255 @@
           }
         },
         {
-          "node_type": "item",
-          "title": "Arikoto",
-          "description": ", GitHub - A Limine protocol, x86_64, C based personal Operating System development project that is inspired by and is aiming to have a similar nature to ToaruOS",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Gloire",
-          "description": "An OS built with the Ironclad kernel (a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada) and GNU tools.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Ovation",
-          "description": "A simple, hobby, 64-bit operating system that focuses on simplicity, portability and maintainability. Written in C.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "pranaOS",
-          "description": "A unix operating system written from scratch in c / c++",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Linux",
+              "description": "Linux kernel",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2325298,
+                "language": "C",
+                "last_commit": "2026-08-19T02:54:46Z",
+                "owner": "torvalds",
+                "repo": "linux",
+                "stars": 243285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MS-DOS",
+              "description": "The original sources of MS-DOS 1.25 and 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 138634298,
+                "language": "Assembly",
+                "last_commit": "2024-04-25T22:32:47Z",
+                "owner": "microsoft",
+                "repo": "MS-DOS",
+                "stars": 32281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReactOS",
+              "description": ", Github - A free Windows-compatible Operating System",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105627846,
+                "language": "C",
+                "last_commit": "2026-08-19T12:32:43Z",
+                "owner": "reactos",
+                "repo": "reactos",
+                "stars": 17936
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreeBSD",
+              "description": ", Github - Unix-like operating system based on the BSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2328181,
+                "language": "C",
+                "last_commit": "2026-08-19T12:25:19Z",
+                "owner": "freebsd",
+                "repo": "freebsd-src",
+                "stars": 9278
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenBSD",
+              "description": ", Github - Unix-like operating system based on the BSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66966208,
+                "language": "C",
+                "last_commit": "2026-08-19T11:19:53Z",
+                "owner": "openbsd",
+                "repo": "src",
+                "stars": 3861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Darwin XNU",
+              "description": "The XNU kernel source code for use in MacOS and iOS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 413590840,
+                "language": "C",
+                "last_commit": "2026-06-18T03:58:44Z",
+                "owner": "apple-oss-distributions",
+                "repo": "xnu",
+                "stars": 3518
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Minix",
+              "description": ", Github - Unix-like operating system based on a microkernel architecture",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24751147,
+                "language": "C",
+                "last_commit": "2024-03-18T14:58:45Z",
+                "owner": "Stichting-MINIX-Research-Foundation",
+                "repo": "minix",
+                "stars": 3493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Haiku",
+              "description": "BeOS inspired OS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1904156,
+                "language": "C++",
+                "last_commit": "2026-08-19T03:00:07Z",
+                "owner": "haiku",
+                "repo": "haiku",
+                "stars": 2315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NetBSD",
+              "description": ", Github - Unix-like operating system based on the BSD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88439547,
+                "language": "C",
+                "last_commit": "2026-08-11T18:49:44Z",
+                "owner": "NetBSD",
+                "repo": "src",
+                "stars": 974
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Popular Operating Systems"
         }
       ],
       "title": "Open Source Operating Systems"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Linux",
-          "description": "Linux kernel",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T03:57:01Z",
-            "owner": "torvalds",
-            "repo": "linux",
-            "stars": 243178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MS-DOS",
-          "description": "The original sources of MS-DOS 1.25 and 2.0",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Assembly",
-            "last_commit": "2024-04-25T22:32:47Z",
-            "owner": "microsoft",
-            "repo": "MS-DOS",
-            "stars": 32281
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReactOS",
-          "description": ", Github - A free Windows-compatible Operating System",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T09:04:31Z",
-            "owner": "reactos",
-            "repo": "reactos",
-            "stars": 17934
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FreeBSD",
-          "description": ", Github - Unix-like operating system based on the BSD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T15:50:09Z",
-            "owner": "freebsd",
-            "repo": "freebsd-src",
-            "stars": 9277
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenBSD",
-          "description": ", Github - Unix-like operating system based on the BSD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T14:19:50Z",
-            "owner": "openbsd",
-            "repo": "src",
-            "stars": 3859
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Darwin XNU",
-          "description": "The XNU kernel source code for use in MacOS and iOS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-18T03:58:44Z",
-            "owner": "apple-oss-distributions",
-            "repo": "xnu",
-            "stars": 3514
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Minix",
-          "description": ", Github - Unix-like operating system based on a microkernel architecture",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-18T14:58:45Z",
-            "owner": "Stichting-MINIX-Research-Foundation",
-            "repo": "minix",
-            "stars": 3493
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Haiku",
-          "description": "BeOS inspired OS",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T18:00:07Z",
-            "owner": "haiku",
-            "repo": "haiku",
-            "stars": 2315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NetBSD",
-          "description": ", Github - Unix-like operating system based on the BSD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-11T18:49:44Z",
-            "owner": "NetBSD",
-            "repo": "src",
-            "stars": 974
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "os-tutorial - How to create an OS from scratch",
+              "description": "by Carlos Fenollosa",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24586308,
+                "language": "C",
+                "last_commit": "2026-02-04T09:33:56Z",
+                "owner": "cfenollosa",
+                "repo": "os-tutorial",
+                "stars": 30658
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning operating system development using Linux kernel and Raspberry Pi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95133665,
+                "language": "C",
+                "last_commit": "2024-03-29T21:19:52Z",
+                "owner": "s-matyukevich",
+                "repo": "raspberry-pi-os",
+                "stars": 13912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How to write a Linux kernel patch and submit it",
+              "description": "by Greg Kroah-Hartman",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 309113,
+                "language": null,
+                "last_commit": "2021-03-26T19:32:57Z",
+                "owner": "gregkh",
+                "repo": "kernel-tutorial",
+                "stars": 1264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Build a minimal multi-tasking OS kernel for ARM from scratch",
+              "description": "by Jim Huang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28435595,
+                "language": "C",
+                "last_commit": "2025-12-14T15:44:05Z",
+                "owner": "jserv",
+                "repo": "mini-arm-os",
+                "stars": 1252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Presentation on how the Linux kernel is developed",
+              "description": "by Greg Kroah-Hartman",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534037,
+                "language": "TeX",
+                "last_commit": "2026-07-28T19:59:51Z",
+                "owner": "gregkh",
+                "repo": "kernel-development",
+                "stars": 685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mya",
+              "description": "a fun project to create OS from scratch by Erfan",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717717871,
+                "language": "Assembly",
+                "last_commit": "2024-02-21T07:37:57Z",
+                "owner": "flydeoo",
+                "repo": "mya",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
         }
       ],
-      "title": "Popular Operating Systems"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Books and Guides"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "os-tutorial - How to create an OS from scratch",
-          "description": "by Carlos Fenollosa",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-04T09:33:56Z",
-            "owner": "cfenollosa",
-            "repo": "os-tutorial",
-            "stars": 30657
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning operating system development using Linux kernel and Raspberry Pi",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-03-29T21:19:52Z",
-            "owner": "s-matyukevich",
-            "repo": "raspberry-pi-os",
-            "stars": 13912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How to write a Linux kernel patch and submit it",
-          "description": "by Greg Kroah-Hartman",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-26T19:32:57Z",
-            "owner": "gregkh",
-            "repo": "kernel-tutorial",
-            "stars": 1264
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Build a minimal multi-tasking OS kernel for ARM from scratch",
-          "description": "by Jim Huang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-12-14T15:44:05Z",
-            "owner": "jserv",
-            "repo": "mini-arm-os",
-            "stars": 1252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Presentation on how the Linux kernel is developed",
-          "description": "by Greg Kroah-Hartman",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2026-07-28T19:59:51Z",
-            "owner": "gregkh",
-            "repo": "kernel-development",
-            "stars": 685
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mya",
-          "description": "a fun project to create OS from scratch by Erfan",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Assembly",
-            "last_commit": "2024-02-21T07:37:57Z",
-            "owner": "flydeoo",
-            "repo": "mya",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Tutorials"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1513,11 +1596,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73646740,
             "language": null,
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6594
+            "stars": 6595
           }
         },
         {
@@ -1527,11 +1611,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44087204,
             "language": "Go",
             "last_commit": "2026-08-17T12:49:23Z",
             "owner": "google",
             "repo": "syzkaller",
-            "stars": 6302
+            "stars": 6304
           }
         },
         {
@@ -1541,6 +1626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224374363,
             "language": "C",
             "last_commit": "2026-05-29T05:09:20Z",
             "owner": "bsauce",
@@ -1555,6 +1641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 481981799,
             "language": "Shell",
             "last_commit": "2022-11-03T21:47:00Z",
             "owner": "sam4k",
@@ -1569,96 +1656,104 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173551047,
             "language": "Shell",
             "last_commit": "2024-07-24T09:56:50Z",
             "owner": "sysprog21",
             "repo": "fibdrv",
             "stars": 42
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "virtme-ng",
+              "description": "quickly build and run kernels inside a virtualized snapshot of your live system",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 563718542,
+                "language": "Python",
+                "last_commit": "2026-08-18T08:18:18Z",
+                "owner": "arighi",
+                "repo": "virtme-ng",
+                "stars": 869
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kworkflow",
+              "description": "reduce the overhead with infrastructure setup for Linux development",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133577268,
+                "language": "Shell",
+                "last_commit": "2026-08-01T23:17:10Z",
+                "owner": "kworkflow",
+                "repo": "kworkflow",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "b4",
+              "description": ", docu, a tool to help with email-based patch workflows",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375488094,
+                "language": "Python",
+                "last_commit": "2026-08-18T19:06:59Z",
+                "owner": "mricon",
+                "repo": "b4",
+                "stars": 141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hackermail",
+              "description": "a mails management tool for hackers who collaborate using mailing lists",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214893797,
+                "language": "Python",
+                "last_commit": "2026-08-16T19:09:45Z",
+                "owner": "sjp38",
+                "repo": "hackermail",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clang-extract",
+              "description": "a tool to extract code content from source files using the clang and LLVM infrastructure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751953838,
+                "language": "C++",
+                "last_commit": "2026-05-29T23:36:48Z",
+                "owner": "SUSE",
+                "repo": "clang-extract",
+                "stars": 33
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
         }
       ],
       "title": "Linux specific"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "virtme-ng",
-          "description": "quickly build and run kernels inside a virtualized snapshot of your live system",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T08:18:18Z",
-            "owner": "arighi",
-            "repo": "virtme-ng",
-            "stars": 869
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kworkflow",
-          "description": "reduce the overhead with infrastructure setup for Linux development",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-01T23:17:10Z",
-            "owner": "kworkflow",
-            "repo": "kworkflow",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "b4",
-          "description": ", docu, a tool to help with email-based patch workflows",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T21:34:30Z",
-            "owner": "mricon",
-            "repo": "b4",
-            "stars": 141
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hackermail",
-          "description": "a mails management tool for hackers who collaborate using mailing lists",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-16T19:09:45Z",
-            "owner": "sjp38",
-            "repo": "hackermail",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clang-extract",
-          "description": "a tool to extract code content from source files using the clang and LLVM infrastructure.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-29T23:36:48Z",
-            "owner": "SUSE",
-            "repo": "clang-extract",
-            "stars": 33
-          }
-        }
-      ],
-      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:00:37.377Z",
+    "last_updated": "2026-08-19T12:43:45.798Z",
     "original_repository": "jubalh/awesome-os",
+    "original_repository_id": 82377935,
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
     "enhanced_repository": "enhansome/enhansome-os",
     "enhanced_repository_description": null,
