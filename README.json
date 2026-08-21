@@ -12,10 +12,10 @@
             "archived": false,
             "id": 160083795,
             "language": "C++",
-            "last_commit": "2026-08-19T22:59:31Z",
+            "last_commit": "2026-08-20T18:51:12Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33762
+            "stars": 33769
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 145803079,
             "language": "TypeScript",
-            "last_commit": "2026-08-05T17:27:01Z",
+            "last_commit": "2026-08-20T22:13:35Z",
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24194
+            "stars": 24195
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 34275705,
             "language": "Rust",
-            "last_commit": "2026-08-20T15:28:05Z",
+            "last_commit": "2026-08-21T05:17:26Z",
             "owner": "redox-os",
             "repo": "redox",
             "stars": 16522
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-22T22:19:15Z",
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7701
+            "stars": 7703
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-19T03:19:16Z",
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 6888
+            "stars": 6887
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-20T00:01:50Z",
+            "last_commit": "2026-08-21T11:00:16Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6823
+            "stars": 6822
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-20T16:57:29Z",
+            "last_commit": "2026-08-21T16:22:45Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6416
+            "stars": 6417
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-12-03T22:02:00Z",
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4772
+            "stars": 4775
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-12T16:15:54Z",
             "owner": "unikraft",
             "repo": "unikraft",
-            "stars": 3826
+            "stars": 3829
           }
         },
         {
@@ -185,6 +185,21 @@
         },
         {
           "node_type": "item",
+          "title": "Nanos",
+          "description": "Unikernel that is linux-compatible, written in C",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115159616,
+            "language": "C",
+            "last_commit": "2026-08-09T06:01:27Z",
+            "owner": "nanovms",
+            "repo": "nanos",
+            "stars": 3182
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Theseus",
           "description": "A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.",
           "children": [],
@@ -200,21 +215,6 @@
         },
         {
           "node_type": "item",
-          "title": "Nanos",
-          "description": "Unikernel that is linux-compatible, written in C",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 115159616,
-            "language": "C",
-            "last_commit": "2026-08-09T06:01:27Z",
-            "owner": "nanovms",
-            "repo": "nanos",
-            "stars": 3180
-          }
-        },
-        {
-          "node_type": "item",
           "title": "tilck",
           "description": "A Tiny Linux-Compatible Kernel.",
           "children": [],
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-03T05:59:15Z",
             "owner": "vvaltchev",
             "repo": "tilck",
-            "stars": 3122
+            "stars": 3123
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2021-12-17T08:35:39Z",
             "owner": "minoca",
             "repo": "os",
-            "stars": 2790
+            "stars": 2791
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-18T04:48:13Z",
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2665
+            "stars": 2664
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2020-08-29T02:08:35Z",
             "owner": "gopher-os",
             "repo": "gopher-os",
-            "stars": 2619
+            "stars": 2620
           }
         },
         {
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 63081862,
             "language": "C++",
-            "last_commit": "2026-08-20T11:30:49Z",
+            "last_commit": "2026-08-20T21:01:40Z",
             "owner": "managarm",
             "repo": "managarm",
-            "stars": 1965
+            "stars": 1966
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2024-11-19T10:12:06Z",
             "owner": "wichtounet",
             "repo": "thor-os",
-            "stars": 1719
+            "stars": 1720
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2026-07-09T10:29:59Z",
             "owner": "HelenOS",
             "repo": "helenos",
-            "stars": 1578
+            "stars": 1579
           }
         },
         {
@@ -447,10 +447,10 @@
             "archived": false,
             "id": 448203875,
             "language": "Rust",
-            "last_commit": "2026-08-19T16:47:48Z",
+            "last_commit": "2026-08-21T16:54:54Z",
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
-            "stars": 1200
+            "stars": 1199
           }
         },
         {
@@ -477,7 +477,7 @@
             "archived": false,
             "id": 230675285,
             "language": "Rust",
-            "last_commit": "2026-08-20T06:02:59Z",
+            "last_commit": "2026-08-21T07:41:40Z",
             "owner": "vinc",
             "repo": "moros",
             "stars": 1090
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 129542762,
             "language": "C",
-            "last_commit": "2026-08-17T07:38:19Z",
+            "last_commit": "2026-08-21T13:29:16Z",
             "owner": "mikaku",
             "repo": "Fiwix",
             "stars": 684
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 102483713,
             "language": "C",
-            "last_commit": "2026-08-20T13:43:33Z",
+            "last_commit": "2026-08-20T23:57:43Z",
             "owner": "frednora",
             "repo": "gramado",
             "stars": 653
@@ -630,7 +630,7 @@
             "last_commit": "2024-09-09T07:03:56Z",
             "owner": "byteduck",
             "repo": "duckOS",
-            "stars": 645
+            "stars": 646
           }
         },
         {
@@ -705,7 +705,7 @@
             "last_commit": "2022-07-12T20:16:17Z",
             "owner": "mig-hub",
             "repo": "mikeOS",
-            "stars": 436
+            "stars": 435
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-08-07T23:08:02Z",
             "owner": "zinnia-os",
             "repo": "zinnia",
-            "stars": 375
+            "stars": 376
           }
         },
         {
@@ -792,7 +792,7 @@
             "archived": false,
             "id": 185773406,
             "language": "C",
-            "last_commit": "2026-08-19T09:49:23Z",
+            "last_commit": "2026-08-21T12:24:30Z",
             "owner": "mentos-team",
             "repo": "MentOS",
             "stars": 301
@@ -975,7 +975,7 @@
             "last_commit": "2026-08-20T11:14:06Z",
             "owner": "kernkonzept",
             "repo": "l4re-core",
-            "stars": 106
+            "stars": 105
           }
         },
         {
@@ -987,7 +987,7 @@
             "archived": false,
             "id": 430583309,
             "language": "C++",
-            "last_commit": "2026-08-20T11:18:16Z",
+            "last_commit": "2026-08-21T10:04:02Z",
             "owner": "DeanoBurrito",
             "repo": "northport",
             "stars": 102
@@ -1152,7 +1152,7 @@
             "archived": false,
             "id": 908942752,
             "language": "C",
-            "last_commit": "2026-08-20T16:47:53Z",
+            "last_commit": "2026-08-21T16:47:25Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 46
@@ -1349,10 +1349,10 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-20T16:37:53Z",
+                "last_commit": "2026-08-21T16:55:01Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 243409
+                "stars": 243601
               }
             },
             {
@@ -1367,7 +1367,7 @@
                 "last_commit": "2024-04-25T22:32:47Z",
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32282
+                "stars": 32280
               }
             },
             {
@@ -1379,10 +1379,10 @@
                 "archived": false,
                 "id": 105627846,
                 "language": "C",
-                "last_commit": "2026-08-19T20:57:51Z",
+                "last_commit": "2026-08-21T16:12:58Z",
                 "owner": "reactos",
                 "repo": "reactos",
-                "stars": 17941
+                "stars": 17939
               }
             },
             {
@@ -1394,10 +1394,10 @@
                 "archived": false,
                 "id": 2328181,
                 "language": "C",
-                "last_commit": "2026-08-20T16:40:09Z",
+                "last_commit": "2026-08-21T17:00:09Z",
                 "owner": "freebsd",
                 "repo": "freebsd-src",
-                "stars": 9281
+                "stars": 9284
               }
             },
             {
@@ -1409,10 +1409,10 @@
                 "archived": false,
                 "id": 66966208,
                 "language": "C",
-                "last_commit": "2026-08-20T16:50:10Z",
+                "last_commit": "2026-08-21T16:50:11Z",
                 "owner": "openbsd",
                 "repo": "src",
-                "stars": 3863
+                "stars": 3865
               }
             },
             {
@@ -1427,7 +1427,7 @@
                 "last_commit": "2026-06-18T03:58:44Z",
                 "owner": "apple-oss-distributions",
                 "repo": "xnu",
-                "stars": 3523
+                "stars": 3524
               }
             },
             {
@@ -1454,10 +1454,10 @@
                 "archived": false,
                 "id": 1904156,
                 "language": "C++",
-                "last_commit": "2026-08-20T17:00:07Z",
+                "last_commit": "2026-08-20T22:00:06Z",
                 "owner": "haiku",
                 "repo": "haiku",
-                "stars": 2316
+                "stars": 2315
               }
             },
             {
@@ -1500,7 +1500,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30657
+                "stars": 30655
               }
             },
             {
@@ -1515,7 +1515,7 @@
                 "last_commit": "2024-03-29T21:19:52Z",
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13912
+                "stars": 13911
               }
             },
             {
@@ -1601,7 +1601,7 @@
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6598
+            "stars": 6597
           }
         },
         {
@@ -1631,7 +1631,7 @@
             "last_commit": "2026-05-29T05:09:20Z",
             "owner": "bsauce",
             "repo": "kernel-security-learning",
-            "stars": 772
+            "stars": 771
           }
         },
         {
@@ -1735,7 +1735,7 @@
                 "archived": false,
                 "id": 751953838,
                 "language": "C++",
-                "last_commit": "2026-05-29T23:36:48Z",
+                "last_commit": "2026-08-21T15:37:28Z",
                 "owner": "SUSE",
                 "repo": "clang-extract",
                 "stars": 33
@@ -1751,7 +1751,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:03:59.823Z",
+    "last_updated": "2026-08-21T17:03:34.932Z",
     "original_repository": "jubalh/awesome-os",
     "original_repository_id": 82377935,
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
