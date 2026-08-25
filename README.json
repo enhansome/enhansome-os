@@ -12,10 +12,10 @@
             "archived": false,
             "id": 160083795,
             "language": "C++",
-            "last_commit": "2026-08-25T00:19:46Z",
+            "last_commit": "2026-08-25T12:29:36Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33778
+            "stars": 33779
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T22:13:35Z",
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24198
+            "stars": 24199
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 34275705,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:17:26Z",
+            "last_commit": "2026-08-25T15:17:33Z",
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16525
+            "stars": 16529
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-19T05:25:27Z",
             "owner": "bottlerocket-os",
             "repo": "bottlerocket",
-            "stars": 9662
+            "stars": 9663
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-22T22:19:15Z",
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7714
+            "stars": 7716
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-25T05:13:25Z",
+            "last_commit": "2026-08-25T10:29:56Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6826
+            "stars": 6828
           }
         },
         {
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-24T22:16:35Z",
+            "last_commit": "2026-08-25T16:21:05Z",
             "owner": "tock",
             "repo": "tock",
             "stars": 6420
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 53845595,
             "language": "C",
-            "last_commit": "2026-08-24T03:54:00Z",
+            "last_commit": "2026-08-25T06:43:57Z",
             "owner": "vvaltchev",
             "repo": "tilck",
             "stars": 3123
@@ -267,10 +267,10 @@
             "archived": false,
             "id": 27672462,
             "language": "C",
-            "last_commit": "2026-08-23T23:09:23Z",
+            "last_commit": "2026-08-25T13:21:59Z",
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2669
+            "stars": 2672
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-07-31T14:49:25Z",
             "owner": "Zeal-Operating-System",
             "repo": "ZealOS",
-            "stars": 2375
+            "stars": 2376
           }
         },
         {
@@ -342,7 +342,7 @@
             "archived": false,
             "id": 63081862,
             "language": "C++",
-            "last_commit": "2026-08-24T20:23:53Z",
+            "last_commit": "2026-08-25T07:43:57Z",
             "owner": "managarm",
             "repo": "managarm",
             "stars": 1969
@@ -390,7 +390,7 @@
             "last_commit": "2026-08-24T14:45:33Z",
             "owner": "HelenOS",
             "repo": "helenos",
-            "stars": 1581
+            "stars": 1582
           }
         },
         {
@@ -447,10 +447,10 @@
             "archived": false,
             "id": 448203875,
             "language": "Rust",
-            "last_commit": "2026-08-23T14:31:48Z",
+            "last_commit": "2026-08-25T17:03:21Z",
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
-            "stars": 1201
+            "stars": 1200
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-06-13T18:33:11Z",
             "owner": "malwarepad",
             "repo": "cavOS",
-            "stars": 734
+            "stars": 735
           }
         },
         {
@@ -735,7 +735,7 @@
             "last_commit": "2026-08-23T21:05:00Z",
             "owner": "zinnia-os",
             "repo": "zinnia",
-            "stars": 377
+            "stars": 378
           }
         },
         {
@@ -792,7 +792,7 @@
             "archived": false,
             "id": 185773406,
             "language": "C",
-            "last_commit": "2026-08-22T18:44:23Z",
+            "last_commit": "2026-08-25T15:02:16Z",
             "owner": "mentos-team",
             "repo": "MentOS",
             "stars": 302
@@ -900,7 +900,7 @@
             "last_commit": "2026-08-12T16:19:06Z",
             "owner": "sasdallas",
             "repo": "Ethereal",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -987,7 +987,7 @@
             "archived": false,
             "id": 430583309,
             "language": "C++",
-            "last_commit": "2026-08-25T05:02:55Z",
+            "last_commit": "2026-08-25T05:56:47Z",
             "owner": "DeanoBurrito",
             "repo": "northport",
             "stars": 102
@@ -1152,7 +1152,7 @@
             "archived": false,
             "id": 908942752,
             "language": "C",
-            "last_commit": "2026-08-24T19:49:03Z",
+            "last_commit": "2026-08-25T17:05:24Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 47
@@ -1352,7 +1352,7 @@
                 "last_commit": "2026-08-24T19:25:00Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244301
+                "stars": 244368
               }
             },
             {
@@ -1367,7 +1367,7 @@
                 "last_commit": "2024-04-25T22:32:47Z",
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32279
+                "stars": 32278
               }
             },
             {
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-08-24T17:52:09Z",
                 "owner": "reactos",
                 "repo": "reactos",
-                "stars": 17956
+                "stars": 17959
               }
             },
             {
@@ -1394,10 +1394,10 @@
                 "archived": false,
                 "id": 2328181,
                 "language": "C",
-                "last_commit": "2026-08-25T03:05:09Z",
+                "last_commit": "2026-08-25T16:05:10Z",
                 "owner": "freebsd",
                 "repo": "freebsd-src",
-                "stars": 9290
+                "stars": 9291
               }
             },
             {
@@ -1409,7 +1409,7 @@
                 "archived": false,
                 "id": 66966208,
                 "language": "C",
-                "last_commit": "2026-08-25T01:50:00Z",
+                "last_commit": "2026-08-25T14:49:54Z",
                 "owner": "openbsd",
                 "repo": "src",
                 "stars": 3864
@@ -1454,7 +1454,7 @@
                 "archived": false,
                 "id": 1904156,
                 "language": "C++",
-                "last_commit": "2026-08-25T03:00:10Z",
+                "last_commit": "2026-08-25T17:00:07Z",
                 "owner": "haiku",
                 "repo": "haiku",
                 "stars": 2318
@@ -1500,7 +1500,7 @@
                 "last_commit": "2021-12-16T09:10:55Z",
                 "owner": "SamyPesse",
                 "repo": "How-to-Make-a-Computer-Operating-System",
-                "stars": 22409
+                "stars": 22410
               }
             }
           ],
@@ -1522,7 +1522,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30663
+                "stars": 30667
               }
             },
             {
@@ -1567,7 +1567,7 @@
                 "last_commit": "2025-12-14T15:44:05Z",
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1253
+                "stars": 1254
               }
             },
             {
@@ -1635,10 +1635,10 @@
             "archived": false,
             "id": 44087204,
             "language": "Go",
-            "last_commit": "2026-08-24T14:12:26Z",
+            "last_commit": "2026-08-25T15:24:39Z",
             "owner": "google",
             "repo": "syzkaller",
-            "stars": 6307
+            "stars": 6308
           }
         },
         {
@@ -1773,7 +1773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:10.195Z",
+    "last_updated": "2026-08-25T17:08:01.169Z",
     "original_repository": "jubalh/awesome-os",
     "original_repository_id": 82377935,
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
