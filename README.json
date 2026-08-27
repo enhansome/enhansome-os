@@ -12,7 +12,7 @@
             "archived": false,
             "id": 160083795,
             "language": "C++",
-            "last_commit": "2026-08-26T11:21:14Z",
+            "last_commit": "2026-08-27T07:37:22Z",
             "owner": "SerenityOS",
             "repo": "serenity",
             "stars": 33783
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-20T22:13:35Z",
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24201
+            "stars": 24202
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 34275705,
             "language": "Rust",
-            "last_commit": "2026-08-26T15:19:32Z",
+            "last_commit": "2026-08-27T09:17:29Z",
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16530
+            "stars": 16533
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 206121828,
             "language": "C",
-            "last_commit": "2026-07-22T22:19:15Z",
+            "last_commit": "2026-08-26T19:07:36Z",
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7722
+            "stars": 7727
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-19T03:19:16Z",
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 6888
+            "stars": 6889
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1259258,
             "language": "C",
-            "last_commit": "2026-08-26T03:02:52Z",
+            "last_commit": "2026-08-27T11:43:36Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6828
+            "stars": 6831
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 36428094,
             "language": "Rust",
-            "last_commit": "2026-08-26T17:03:17Z",
+            "last_commit": "2026-08-27T01:15:48Z",
             "owner": "tock",
             "repo": "tock",
-            "stars": 6422
+            "stars": 6423
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2023-12-03T22:02:00Z",
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4787
+            "stars": 4789
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-23T20:32:22Z",
             "owner": "maestro-os",
             "repo": "maestro",
-            "stars": 3326
+            "stars": 3327
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2026-07-08T18:55:47Z",
             "owner": "skift-org",
             "repo": "skift",
-            "stars": 2986
+            "stars": 2985
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-08-25T13:21:59Z",
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2678
+            "stars": 2683
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2020-08-29T02:08:35Z",
             "owner": "gopher-os",
             "repo": "gopher-os",
-            "stars": 2621
+            "stars": 2622
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-07-31T14:49:25Z",
             "owner": "Zeal-Operating-System",
             "repo": "ZealOS",
-            "stars": 2376
+            "stars": 2377
           }
         },
         {
@@ -342,10 +342,10 @@
             "archived": false,
             "id": 63081862,
             "language": "C++",
-            "last_commit": "2026-08-26T11:09:48Z",
+            "last_commit": "2026-08-27T11:38:30Z",
             "owner": "managarm",
             "repo": "managarm",
-            "stars": 1969
+            "stars": 1970
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2026-08-25T17:03:21Z",
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
-            "stars": 1200
+            "stars": 1201
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-06-12T19:06:32Z",
             "owner": "ReturnInfinity",
             "repo": "BareMetal",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 102483713,
             "language": "C",
-            "last_commit": "2026-08-26T13:58:54Z",
+            "last_commit": "2026-08-27T01:21:28Z",
             "owner": "frednora",
             "repo": "gramado",
             "stars": 653
@@ -645,7 +645,7 @@
             "last_commit": "2026-04-01T04:49:42Z",
             "owner": "klange",
             "repo": "ponyos",
-            "stars": 575
+            "stars": 574
           }
         },
         {
@@ -792,10 +792,10 @@
             "archived": false,
             "id": 185773406,
             "language": "C",
-            "last_commit": "2026-08-26T17:53:22Z",
+            "last_commit": "2026-08-26T20:46:46Z",
             "owner": "mentos-team",
             "repo": "MentOS",
-            "stars": 302
+            "stars": 303
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2026-08-19T08:10:44Z",
             "owner": "hhuOS",
             "repo": "hhuOS",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -875,6 +875,21 @@
         },
         {
           "node_type": "item",
+          "title": "Ethereal",
+          "description": "Ethereal is an advanced modular operating system with support for networking and USB as well as a GUI-enabled userspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 450146946,
+            "language": "C",
+            "last_commit": "2026-08-12T16:19:06Z",
+            "owner": "sasdallas",
+            "repo": "Ethereal",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
           "title": "GreenteaOS",
           "description": ", Github - A free OS designed to be compatible with Windows executables",
           "children": [],
@@ -886,21 +901,6 @@
             "owner": "GreenteaOS",
             "repo": "Greentea",
             "stars": 158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereal",
-          "description": "Ethereal is an advanced modular operating system with support for networking and USB as well as a GUI-enabled userspace.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 450146946,
-            "language": "C",
-            "last_commit": "2026-08-12T16:19:06Z",
-            "owner": "sasdallas",
-            "repo": "Ethereal",
-            "stars": 157
           }
         },
         {
@@ -1152,7 +1152,7 @@
             "archived": false,
             "id": 908942752,
             "language": "C",
-            "last_commit": "2026-08-26T18:17:52Z",
+            "last_commit": "2026-08-27T08:19:28Z",
             "owner": "tayoky",
             "repo": "stanix",
             "stars": 47
@@ -1349,10 +1349,10 @@
                 "archived": false,
                 "id": 2325298,
                 "language": "C",
-                "last_commit": "2026-08-25T21:32:30Z",
+                "last_commit": "2026-08-26T23:09:41Z",
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 244478
+                "stars": 244637
               }
             },
             {
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-08-26T17:46:14Z",
                 "owner": "reactos",
                 "repo": "reactos",
-                "stars": 17966
+                "stars": 17972
               }
             },
             {
@@ -1394,10 +1394,10 @@
                 "archived": false,
                 "id": 2328181,
                 "language": "C",
-                "last_commit": "2026-08-26T17:35:09Z",
+                "last_commit": "2026-08-27T08:30:18Z",
                 "owner": "freebsd",
                 "repo": "freebsd-src",
-                "stars": 9293
+                "stars": 9295
               }
             },
             {
@@ -1409,10 +1409,10 @@
                 "archived": false,
                 "id": 66966208,
                 "language": "C",
-                "last_commit": "2026-08-26T17:50:12Z",
+                "last_commit": "2026-08-27T07:49:27Z",
                 "owner": "openbsd",
                 "repo": "src",
-                "stars": 3863
+                "stars": 3864
               }
             },
             {
@@ -1427,7 +1427,7 @@
                 "last_commit": "2026-06-18T03:58:44Z",
                 "owner": "apple-oss-distributions",
                 "repo": "xnu",
-                "stars": 3535
+                "stars": 3542
               }
             },
             {
@@ -1442,7 +1442,7 @@
                 "last_commit": "2024-03-18T14:58:45Z",
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3496
+                "stars": 3495
               }
             },
             {
@@ -1454,10 +1454,10 @@
                 "archived": false,
                 "id": 1904156,
                 "language": "C++",
-                "last_commit": "2026-08-26T16:00:11Z",
+                "last_commit": "2026-08-26T22:00:08Z",
                 "owner": "haiku",
                 "repo": "haiku",
-                "stars": 2318
+                "stars": 2322
               }
             },
             {
@@ -1472,7 +1472,7 @@
                 "last_commit": "2026-08-11T18:49:44Z",
                 "owner": "NetBSD",
                 "repo": "src",
-                "stars": 974
+                "stars": 975
               }
             }
           ],
@@ -1522,7 +1522,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30672
+                "stars": 30675
               }
             },
             {
@@ -1552,7 +1552,7 @@
                 "last_commit": "2021-03-26T19:32:57Z",
                 "owner": "gregkh",
                 "repo": "kernel-tutorial",
-                "stars": 1264
+                "stars": 1263
               }
             },
             {
@@ -1582,7 +1582,7 @@
                 "last_commit": "2026-07-28T19:59:51Z",
                 "owner": "gregkh",
                 "repo": "kernel-development",
-                "stars": 686
+                "stars": 685
               }
             },
             {
@@ -1623,7 +1623,7 @@
             "last_commit": "2026-08-14T22:14:15Z",
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6602
+            "stars": 6603
           }
         },
         {
@@ -1635,7 +1635,7 @@
             "archived": false,
             "id": 44087204,
             "language": "Go",
-            "last_commit": "2026-08-26T08:42:29Z",
+            "last_commit": "2026-08-27T11:50:37Z",
             "owner": "google",
             "repo": "syzkaller",
             "stars": 6309
@@ -1773,9 +1773,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:20:59.428Z",
-    "original_repository": "jubalh/awesome-os",
-    "original_repository_id": 82377935,
+    "last_updated": "2026-08-27T11:56:59.540Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 82377935,
+      "language": null,
+      "last_commit": "2026-07-27T07:25:24Z",
+      "owner": "jubalh",
+      "repo": "awesome-os",
+      "stars": 2265
+    },
     "original_repository_sha": "c17d203c928ed696eb3139ec1c58122702b26fe4",
     "enhanced_repository": "enhansome/enhansome-os",
     "enhanced_repository_description": null,
