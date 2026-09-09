@@ -19,7 +19,7 @@
             "open_issues": 744,
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33821,
+            "stars": 33801,
             "topics": [
               "browser",
               "c-plus-plus",
@@ -48,7 +48,7 @@
             "open_issues": 11,
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24227,
+            "stars": 24232,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -65,11 +65,11 @@
             "id": 34275705,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:17:30Z",
+            "last_commit": "2026-09-09T13:17:38Z",
             "open_issues": 183,
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16559,
+            "stars": 16561,
             "topics": [
               "bsd",
               "freebsd",
@@ -102,11 +102,11 @@
             "id": 179385712,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T01:59:03Z",
-            "open_issues": 201,
+            "last_commit": "2026-09-09T19:13:24Z",
+            "open_issues": 202,
             "owner": "bottlerocket-os",
             "repo": "bottlerocket",
-            "stars": 9670,
+            "stars": 9671,
             "topics": [
               "containers",
               "linux",
@@ -132,7 +132,7 @@
             "open_issues": 35,
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7776,
+            "stars": 7779,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -153,7 +153,7 @@
             "open_issues": 163,
             "owner": "NodeOS",
             "repo": "NodeOS",
-            "stars": 7345,
+            "stars": 7344,
             "topics": [
               "javascript",
               "nodejs",
@@ -179,7 +179,7 @@
             "open_issues": 87,
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 7020,
+            "stars": 7019,
             "topics": [
               "c",
               "cocoa",
@@ -211,7 +211,7 @@
             "id": 1259258,
             "language": "C",
             "license": "NCSA",
-            "last_commit": "2026-09-07T21:55:35Z",
+            "last_commit": "2026-09-09T11:46:29Z",
             "open_issues": 65,
             "owner": "klange",
             "repo": "toaruos",
@@ -252,11 +252,11 @@
             "id": 36428094,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T18:18:07Z",
-            "open_issues": 208,
+            "last_commit": "2026-09-09T17:41:31Z",
+            "open_issues": 211,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6435,
+            "stars": 6436,
             "topics": [
               "arm",
               "cortex-m",
@@ -290,7 +290,7 @@
             "open_issues": 20,
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4817,
+            "stars": 4819,
             "topics": [
               "cia",
               "holyc",
@@ -314,10 +314,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:11:54Z",
-            "open_issues": 370,
+            "open_issues": 371,
             "owner": "unikraft",
             "repo": "unikraft",
-            "stars": 3843,
+            "stars": 3844,
             "topics": [
               "application",
               "cloud",
@@ -386,7 +386,7 @@
             "open_issues": 70,
             "owner": "theseus-os",
             "repo": "Theseus",
-            "stars": 3192,
+            "stars": 3195,
             "topics": [
               "intralingual",
               "kernel",
@@ -414,7 +414,7 @@
             "open_issues": 86,
             "owner": "nanovms",
             "repo": "nanos",
-            "stars": 3190,
+            "stars": 3191,
             "topics": [
               "edge",
               "microservice",
@@ -525,11 +525,11 @@
             "id": 27672462,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T18:41:56Z",
+            "last_commit": "2026-09-09T15:20:20Z",
             "open_issues": 1,
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2699,
+            "stars": 2700,
             "topics": [
               "darwin",
               "hacktoberfest",
@@ -629,11 +629,11 @@
             "id": 221905326,
             "language": "V",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-08T18:36:40Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-09T01:35:23Z",
+            "open_issues": 25,
             "owner": "vlang",
             "repo": "vinix",
-            "stars": 2180,
+            "stars": 2199,
             "topics": [
               "hacktoberfest",
               "operating-system",
@@ -656,11 +656,11 @@
             "id": 63081862,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-08T08:28:13Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-09T19:04:47Z",
+            "open_issues": 221,
             "owner": "managarm",
             "repo": "managarm",
-            "stars": 1973,
+            "stars": 1975,
             "topics": [
               "asynchronous-io",
               "hacktoberfest",
@@ -719,7 +719,7 @@
             "open_issues": 3,
             "owner": "o8vm",
             "repo": "octox",
-            "stars": 1637,
+            "stars": 1636,
             "topics": [
               "osdev",
               "riscv",
@@ -776,7 +776,7 @@
             "language": "Assembly",
             "license": "NOASSERTION",
             "last_commit": "2021-05-02T06:26:08Z",
-            "open_issues": 108,
+            "open_issues": 109,
             "owner": "KnightOS",
             "repo": "KnightOS",
             "stars": 1319,
@@ -857,7 +857,7 @@
             "open_issues": 158,
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
-            "stars": 1205,
+            "stars": 1204,
             "topics": [
               "operating-system",
               "os",
@@ -907,7 +907,7 @@
             "id": 230675285,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-08T18:18:47Z",
+            "last_commit": "2026-09-09T17:02:03Z",
             "open_issues": 22,
             "owner": "vinc",
             "repo": "moros",
@@ -940,7 +940,7 @@
             "open_issues": 1,
             "owner": "ozkl",
             "repo": "soso",
-            "stars": 990,
+            "stars": 991,
             "topics": [
               "kernel",
               "osdev",
@@ -1057,7 +1057,7 @@
             "id": 129542762,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T12:40:11Z",
+            "last_commit": "2026-09-09T07:11:40Z",
             "open_issues": 5,
             "owner": "mikaku",
             "repo": "Fiwix",
@@ -1146,7 +1146,7 @@
             "id": 102483713,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-09-08T14:06:41Z",
+            "last_commit": "2026-09-09T18:36:34Z",
             "open_issues": 9,
             "owner": "frednora",
             "repo": "gramado",
@@ -1386,7 +1386,7 @@
             "open_issues": 4,
             "owner": "zinnia-os",
             "repo": "zinnia",
-            "stars": 381,
+            "stars": 380,
             "topics": [
               "kernel",
               "os",
@@ -1679,7 +1679,7 @@
             "open_issues": 0,
             "owner": "sasdallas",
             "repo": "Ethereal",
-            "stars": 171,
+            "stars": 172,
             "topics": [
               "assembly",
               "c",
@@ -2164,7 +2164,7 @@
             "id": 908942752,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T16:43:11Z",
+            "last_commit": "2026-09-09T17:42:02Z",
             "open_issues": 0,
             "owner": "tayoky",
             "repo": "stanix",
@@ -2550,11 +2550,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T16:48:49Z",
+                "last_commit": "2026-09-09T18:38:16Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 247556,
+                "stars": 247620,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2575,7 +2575,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32282,
+                "stars": 32281,
                 "topics": [
                   "ms-dos"
                 ]
@@ -2594,11 +2594,11 @@
                 "id": 105627846,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-08T18:28:05Z",
-                "open_issues": 215,
+                "last_commit": "2026-09-09T17:58:40Z",
+                "open_issues": 216,
                 "owner": "reactos",
                 "repo": "reactos",
-                "stars": 18059,
+                "stars": 18061,
                 "topics": [
                   "c",
                   "drivers",
@@ -2629,11 +2629,11 @@
                 "id": 2328181,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T12:15:18Z",
-                "open_issues": 181,
+                "last_commit": "2026-09-09T19:05:10Z",
+                "open_issues": 182,
                 "owner": "freebsd",
                 "repo": "freebsd-src",
-                "stars": 9305,
+                "stars": 9308,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2650,7 +2650,7 @@
                 "id": 66966208,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-08T19:19:53Z",
+                "last_commit": "2026-09-09T18:50:06Z",
                 "open_issues": 1,
                 "owner": "openbsd",
                 "repo": "src",
@@ -2677,7 +2677,7 @@
                 "open_issues": 1,
                 "owner": "apple-oss-distributions",
                 "repo": "xnu",
-                "stars": 3592,
+                "stars": 3595,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2698,7 +2698,7 @@
                 "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3502,
+                "stars": 3504,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2715,11 +2715,11 @@
                 "id": 1904156,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-08T16:00:09Z",
+                "last_commit": "2026-09-09T11:00:08Z",
                 "open_issues": 0,
                 "owner": "haiku",
                 "repo": "haiku",
-                "stars": 2336,
+                "stars": 2338,
                 "topics": [
                   "beos",
                   "haiku",
@@ -2740,11 +2740,11 @@
                 "id": 88439547,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-09-08T17:25:13Z",
+                "last_commit": "2026-09-09T13:10:09Z",
                 "open_issues": 17,
                 "owner": "NetBSD",
                 "repo": "src",
-                "stars": 983,
+                "stars": 985,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2778,7 +2778,7 @@
                 "open_issues": 86,
                 "owner": "SamyPesse",
                 "repo": "How-to-Make-a-Computer-Operating-System",
-                "stars": 22413,
+                "stars": 22411,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2806,7 +2806,7 @@
                 "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30697,
+                "stars": 30699,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2963,7 +2963,7 @@
             "open_issues": 0,
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6631,
+            "stars": 6632,
             "topics": [
               "exploit",
               "kernel-exploitation",
@@ -2986,8 +2986,8 @@
             "id": 44087204,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T18:47:07Z",
-            "open_issues": 625,
+            "last_commit": "2026-09-09T16:31:11Z",
+            "open_issues": 627,
             "owner": "google",
             "repo": "syzkaller",
             "stars": 6319,
@@ -3090,7 +3090,7 @@
                 "open_issues": 29,
                 "owner": "arighi",
                 "repo": "virtme-ng",
-                "stars": 881,
+                "stars": 882,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -3173,7 +3173,7 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-29T15:40:43Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "SUSE",
                 "repo": "clang-extract",
                 "stars": 33,
@@ -3191,7 +3191,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T19:32:47.049Z",
+    "last_updated": "2026-09-09T19:26:48.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of operating systems and stuff",
