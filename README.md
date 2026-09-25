@@ -5,44 +5,44 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 ## Open Source Operating Systems
 
-* [Serenity](https://github.com/SerenityOS/serenity) ⭐ 33,857 | 🐛 739 | 🌐 C++ | 📅 2026-09-24 - Graphical Unix-like operating system for x86 computers
-* [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) ⭐ 24,238 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11 - Hobby Windows 95 implementation in Electron
-* [Redox](https://github.com/redox-os/redox) ⭐ 16,593 | 🐛 183 | 🌐 Rust | 📅 2026-09-24 - written in Rust
-* [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,671 | 🐛 198 | 🌐 Rust | 📅 2026-09-22- Linux-based OS meant for hosting containers.
-* [FreeRTOS](https://www.freertos.org/), [GitHub](https://github.com/FreeRTOS/FreeRTOS) ⭐ 7,831 | 🐛 36 | 🌐 C | 📅 2026-08-26 - IoT operating system for microcontrollers, by Amazon.
+* [Serenity](https://github.com/SerenityOS/serenity) ⭐ 33,859 | 🐛 741 | 🌐 C++ | 📅 2026-09-24 - Graphical Unix-like operating system for x86 computers
+* [Windows 95 in Electron](https://github.com/felixrieseberg/windows95) ⭐ 24,237 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11 - Hobby Windows 95 implementation in Electron
+* [Redox](https://github.com/redox-os/redox) ⭐ 16,594 | 🐛 183 | 🌐 Rust | 📅 2026-09-25 - written in Rust
+* [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket) ⭐ 9,670 | 🐛 200 | 🌐 Rust | 📅 2026-09-22- Linux-based OS meant for hosting containers.
+* [FreeRTOS](https://www.freertos.org/), [GitHub](https://github.com/FreeRTOS/FreeRTOS) ⭐ 7,832 | 🐛 36 | 🌐 C | 📅 2026-08-26 - IoT operating system for microcontrollers, by Amazon.
 * [NodeOS](https://github.com/NodeOS/NodeOS) ⭐ 7,343 | 🐛 163 | 🌐 Shell | 📅 2023-03-07 - OS using NodeJS and Linux
 * [RavynOS](https://github.com/ravynsoft/ravynos) ⭐ 7,037 | 🐛 87 | 🌐 C | 📅 2026-09-06 - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
-* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,844 | 🐛 65 | 🌐 C | 📅 2026-09-24 - Hobby operating system from scratch
-* [tock](https://www.tockos.org/), [GitHub](https://github.com/tock/tock) ⭐ 6,446 | 🐛 217 | 🌐 Rust | 📅 2026-09-24 - A secure embedded operating system for microcontrollers
+* [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,844 | 🐛 65 | 🌐 C | 📅 2026-09-25 - Hobby operating system from scratch
+* [tock](https://www.tockos.org/), [GitHub](https://github.com/tock/tock) ⭐ 6,446 | 🐛 216 | 🌐 Rust | 📅 2026-09-25 - A secure embedded operating system for microcontrollers
 * [TempleOS](https://github.com/minexew/TempleOS) ⭐ 4,856 | 🐛 22 | 🌐 HolyC | 📅 2023-12-03 - Religious OS :-)
-* [Unikraft](https://github.com/unikraft/unikraft) ⭐ 3,864 | 🐛 372 | 🌐 C | 📅 2026-09-23 - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
+* [Unikraft](https://github.com/unikraft/unikraft) ⭐ 3,865 | 🐛 372 | 🌐 C | 📅 2026-09-25 - A modular unikernel for specialization, high efficiency, performance, and security; Linux/POSIX-compatible; mostly in C
 * [Maestro](https://github.com/maestro-os/maestro) ⭐ 3,335 | 🐛 11 | 🌐 Rust | 📅 2026-08-23, [Blog](https://blog.lenot.re) - Operating system written in Rust, aiming to be a lightweight version of Linux
 * [Theseus](https://github.com/theseus-os/Theseus) ⭐ 3,203 | 🐛 69 | 🌐 Rust | 📅 2024-09-22 - A modern experimental OS written from scratch in Rust to explore novel OS structure and state management techniques.
-* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,193 | 🐛 89 | 🌐 C | 📅 2026-09-21 - Unikernel that is linux-compatible, written in C
+* [Nanos](https://github.com/nanovms/nanos) ⭐ 3,193 | 🐛 88 | 🌐 C | 📅 2026-09-21 - Unikernel that is linux-compatible, written in C
 * [tilck](https://github.com/vvaltchev/tilck) ⭐ 3,132 | 🐛 0 | 🌐 C | 📅 2026-09-19 - A Tiny Linux-Compatible Kernel.
 * [skiftOS](https://skiftos.org/), [GitHub](https://github.com/skiftOS/skift) ⭐ 2,985 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - A simple, handmade, operating system with a graphical user interface.
-* [Minoca OS](https://github.com/minoca/os) ⭐ 2,789 | 🐛 23 | 🌐 C | 📅 2021-12-17 - General purpose OS, written in C
-* [PureDarwin](https://github.com/PureDarwin/PureDarwin/wiki) ⭐ 2,721 | 🐛 1 | 🌐 C | 📅 2026-09-19 - PureDarwin is a community project to extend Darwin into a complete, usable operating system
+* [Minoca OS](https://github.com/minoca/os) ⭐ 2,788 | 🐛 23 | 🌐 C | 📅 2021-12-17 - General purpose OS, written in C
+* [PureDarwin](https://github.com/PureDarwin/PureDarwin/wiki) ⭐ 2,720 | 🐛 1 | 🌐 C | 📅 2026-09-19 - PureDarwin is a community project to extend Darwin into a complete, usable operating system
 * [gopher-os](https://github.com/gopher-os/gopher-os) ⭐ 2,624 | 🐛 8 | 🌐 Go | 📅 2020-08-29 - A proof of concept OS kernel written in Go
-* [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) ⭐ 2,402 | 🐛 58 | 🌐 HolyC | 📅 2026-09-14 - The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.
-* [Vinix](https://github.com/vlang/vinix) ⭐ 2,333 | 🐛 50 | 🌐 V | 📅 2026-09-24 - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
-* [eggos](https://github.com/icexin/eggos) ⭐ 2,325 | 🐛 26 | 🌐 Go | 📅 2023-07-22 - A Go unikernel running on x86 bare metal
-* [managarm](https://github.com/managarm/managarm) ⭐ 1,981 | 🐛 221 | 🌐 C++ | 📅 2026-09-22 - Pragmatic microkernel-based OS with fully asynchronous I/O
-* [octox](https://github.com/o8vm/octox) ⭐ 1,866 | 🐛 4 | 🌐 Rust | 📅 2025-09-24 - Unix-like OS in Rust inspired by xv6-riscv
+* [ZealOS](https://github.com/Zeal-Operating-System/ZealOS) ⭐ 2,404 | 🐛 58 | 🌐 HolyC | 📅 2026-09-14 - The Zeal Operating System is a modernized, professional fork of the 64-bit Temple Operating System, TempleOS.
+* [Vinix](https://github.com/vlang/vinix) ⭐ 2,334 | 🐛 51 | 🌐 V | 📅 2026-09-24 - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
+* [eggos](https://github.com/icexin/eggos) ⭐ 2,327 | 🐛 26 | 🌐 Go | 📅 2023-07-22 - A Go unikernel running on x86 bare metal
+* [managarm](https://github.com/managarm/managarm) ⭐ 1,981 | 🐛 221 | 🌐 C++ | 📅 2026-09-25 - Pragmatic microkernel-based OS with fully asynchronous I/O
+* [octox](https://github.com/o8vm/octox) ⭐ 1,882 | 🐛 3 | 🌐 Rust | 📅 2025-09-24 - Unix-like OS in Rust inspired by xv6-riscv
 * [Thor](https://github.com/wichtounet/thor-os) ⭐ 1,720 | 🐛 2 | 🌐 C++ | 📅 2024-11-19 - 64bit operating system mostly written in C++
 * [HelenOS](https://github.com/HelenOS/helenos) ⭐ 1,588 | 🐛 10 | 🌐 C | 📅 2026-09-23 - multikernel multiserver OS
 * [Interim](https://github.com/mntmn/interim) ⭐ 1,322 | 🐛 12 | 🌐 C | 📅 2021-06-11 - Minimalist OS with concepts from Lisp machines and Plan9
 * [KnightOS](https://github.com/KnightOS/KnightOS) ⭐ 1,319 | 🐛 108 | 🌐 Assembly | 📅 2021-05-02 - for z80 calculators
 * [LemonOS](https://lemonos.org/), [GitHub](https://github.com/fido2020/Lemon-OS) ⭐ 1,299 | 🐛 15 | 🌐 C++ | 📅 2024-11-23 - UNIX-like 64-bit operating system written in C++.
-* [DragonOS](https://github.com/fslongjin/DragonOS) ⭐ 1,207 | 🐛 178 | 🌐 Rust | 📅 2026-09-24 - An x86-64 OS build from scratch.
+* [DragonOS](https://github.com/fslongjin/DragonOS) ⭐ 1,206 | 🐛 179 | 🌐 Rust | 📅 2026-09-25 - An x86-64 OS build from scratch.
 * [Brutal](https://github.com/brutal-org/brutal) ⭐ 1,112 | 🐛 2 | 🌐 C | 📅 2026-08-26 - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
-* [moros](https://github.com/vinc/moros) ⭐ 1,101 | 🐛 18 | 🌐 Rust | 📅 2026-09-24 - MOROS is a hobby operating system written in Rust for the x86 architecture.
+* [moros](https://github.com/vinc/moros) ⭐ 1,100 | 🐛 18 | 🌐 Rust | 📅 2026-09-25 - MOROS is a hobby operating system written in Rust for the x86 architecture.
 * [soso](https://github.com/ozkl/soso) ⭐ 995 | 🐛 1 | 🌐 C | 📅 2026-07-26 - Simple unix-like operating system written in Nasm assembly and mostly in C
 * [Fomos](https://github.com/Ruddle/Fomos) ⭐ 974 | 🐛 5 | 🌐 Rust | 📅 2023-09-03 - Experimental OS, built with Rust.
 * [Basekernel](https://github.com/dthain/basekernel) ⭐ 937 | 🐛 19 | 🌐 C | 📅 2026-01-08 - A simple OS kernel for research, teaching, and fun
 * [BareMetal](http://www.returninfinity.com/), [GitHub](https://github.com/ReturnInfinity/BareMetal) ⭐ 925 | 🐛 1 | 🌐 Assembly | 📅 2026-06-12 - 64 bit operating system written in Assembly for x86-64
-* [cavOS](https://github.com/malwarepad/cavOS) ⭐ 735 | 🐛 6 | 🌐 C | 📅 2026-06-13 - Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase
-* [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) ⭐ 692 | 🐛 4 | 🌐 C | 📅 2026-09-24 - A UNIX-like kernel for the i386 architecture.
+* [cavOS](https://github.com/malwarepad/cavOS) ⭐ 736 | 🐛 6 | 🌐 C | 📅 2026-06-13 - Amd64 operating system in C. Trying to make a full OS, with a simple and readable codebase
+* [Fiwix](https://www.fiwix.org/), [GitHub](https://github.com/mikaku/Fiwix) ⭐ 693 | 🐛 4 | 🌐 C | 📅 2026-09-24 - A UNIX-like kernel for the i386 architecture.
 * [oneOS](https://github.com/nimelehin/oneOS) ⭐ 662 | 🐛 15 | 🌐 C | 📅 2023-04-06 - x86-32 and ARMv7 kernel with pre-emptive multi-threading, window manager and editor
 * [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) ⭐ 662 | 🐛 15 | 🌐 C | 📅 2023-04-06 -  an operating system targeting x86, ARMv7, Aarch64.
 * [Animal](https://github.com/frednora/animal) ⭐ 651 | 🐛 9 | 🌐 C | 📅 2026-09-23 - 32 bit multithreaded operating system (formerly Gramado)
@@ -50,7 +50,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [PonyOS](https://ponyos.org/), [GitHub](https://github.com/klange/ponyos) ⭐ 574 | 🐛 2 | 🌐 C | 📅 2026-04-01 - ToaruOS-based, My Little Pony themed OS
 * [orange\_slice](https://github.com/gamozolabs/orange_slice) ⭐ 550 | 🐛 1 | 🌐 Rust | 📅 2021-03-21 - A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost. In Rust
 * [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) ⭐ 463 | 🐛 0 | 🌐 Assembly | 📅 2024-08-26 - pure x64 assembly language operating system (related to [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2024-08-16 project).
-* [MollenOS](https://github.com/Meulengracht/MollenOS) ⭐ 454 | 🐛 19 | 🌐 C | 📅 2026-09-24 - MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform
+* [MollenOS](https://github.com/Meulengracht/MollenOS) ⭐ 454 | 🐛 19 | 🌐 C | 📅 2026-09-25 - MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. It currently targets the x86-32 and x86-64 platform
 * [PathOS](http://path-os.duckdns.org/) - Hobby OS based on [MikeOS](https://github.com/mig-hub/mikeOS) ⭐ 436 | 🐛 4 | 🌐 Assembly | 📅 2022-07-12, written in Assembly Language
 * [mOS](https://github.com/MQuy/mos) ⭐ 392 | 🐛 2 | 🌐 C | 📅 2021-12-05 - A hobby operating system developed from scratch
 * [menix](https://github.com/menix-os/menix) ⭐ 381 | 🐛 4 | 🌐 Rust | 📅 2026-08-23 - A minimal and expandable Unix-like operating system.
@@ -60,7 +60,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Mimiker](https://mimiker.ii.uni.wroc.pl/), [GitHub](https://github.com/cahirwpz/mimiker) ⭐ 307 | 🐛 38 | 🌐 C | 📅 2024-09-03 - Simple unix-like operating system for education and research purposes. MIPS microkernel.
 * [Jehanne](http://jehanne.io/), [GitHub](https://github.com/JehanneOS/jehanne/) ⭐ 290 | 🐛 0 | 🌐 C | 📅 2022-01-06 - OS inspired by Plan9, 9front and Harvey OS
 * [hhuOS](https://github.com/hhuOS/hhuOS) ⭐ 235 | 🐛 13 | 🌐 C++ | 📅 2026-09-07 - hhuOS is a small operating system written in C++ and Assembler for the x86-architecture. The main purpose of this project is to show how different aspects of operating systems theory can be implemented and linked together. The system is not aimed to be a full-featured operating system for daily use.
-* [rou2exOS](https://github.com/krustowski/rou2exOS) ⭐ 207 | 🐛 7 | 🌐 Rust | 📅 2026-09-24, [Blog](https://blog.vxn.dev/rou2exos-rusted-edition) - A second iteration of the DOS-like hobby OS written in Rust and x86\_64 assembly
+* [rou2exOS](https://github.com/krustowski/rou2exOS) ⭐ 207 | 🐛 7 | 🌐 Rust | 📅 2026-09-25, [Blog](https://blog.vxn.dev/rou2exos-rusted-edition) - A second iteration of the DOS-like hobby OS written in Rust and x86\_64 assembly
 * [MeetixOS](https://github.com/MarcoCicognani/MeetixOS) ⭐ 195 | 🐛 3 | 🌐 C++ | 📅 2023-04-24 - A hobby OS written in modern C++20 which aims to be Unix-like.
 * [Ultron OS](https://github.com/aswinmohanme/ultronOS) ⭐ 186 | 🐛 1 | 🌐 C++ | 📅 2017-12-22 - x86 Operating System written in C++, High School Project
 * [Ethereal](https://github.com/sasdallas/Ethereal) ⭐ 184 | 🐛 0 | 🌐 C | 📅 2026-09-13 - Ethereal is an advanced modular operating system with support for networking and USB as well as a GUI-enabled userspace.
@@ -68,7 +68,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [ExectOS](https://git.codingworkshop.eu.org/xt-sys/exectos), [GitHub](https://github.com/xt-sys/exectos) ⭐ 139 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 - ExectOS is a modern, EFI-enabled, general purpose operating system written from scratch and implementing the XT architecture. It runs on x86 and x86\_64 architectures and provides NT drivers compatibility layer.
 * [SimpleOS](https://github.com/xing1357/SimpleOS) ⚠️ Archived - Simple Operating System coded in C and Assembly
 * [Charlotte](https://github.com/charlotte-os/charlotte-core) ⚠️ Archived - CharlotteOS kernel in Rust
-* [L4re](https://github.com/kernkonzept/l4re-core) ⭐ 105 | 🐛 1 | 🌐 C++ | 📅 2026-09-18 - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
+* [L4re](https://github.com/kernkonzept/l4re-core) ⭐ 105 | 🐛 1 | 🌐 C++ | 📅 2026-09-25 - Operating system and hypervisor for security/safety-critical and virtualization-enabled applications.
 * [Northport](https://github.com/DeanoBurrito/northport) ⭐ 103 | 🐛 0 | 🌐 C++ | 📅 2026-09-22 - Monolithic kernel and support libraries for riscv64 and x86\_64.
 * [MaslOS](https://github.com/marceldobehere/MaslOS) ⭐ 97 | 🐛 0 | 🌐 C++ | 📅 2024-05-08 - A 64 bit GUI multitasking Hobby OS written mostly from scratch in C++ and a bit of C/ASM.
 * [Mimosa](https://icfp20.sigplan.org/details/scheme-2020-papers/3/Running-Scheme-On-Bare-Metal-Experience-Report-), [GitHub](https://github.com/udem-dlteam/mimosa) ⭐ 96 | 🐛 5 | 🌐 C | 📅 2020-11-18 - Research Operating System that runs Scheme on bare-metal
@@ -79,7 +79,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) ⭐ 63 | 🐛 0 | 🌐 C++ | 📅 2022-07-23 - A small operating system for 32 bit x86.
 * [KiddieOS](https://github.com/FrancisBFTC/KiddieOS_Development) ⭐ 63 | 🐛 2 | 🌐 Assembly | 📅 2025-10-14 - UNIX-like 64-bit operating system written in Assembly, C++.
 * [Mako](https://github.com/AjayMT/mako) ⭐ 63 | 🐛 0 | 🌐 C | 📅 2025-07-12 - Hobby OS for x86 from scratch, written in C
-* [Stanix](https://github.com/tayoky/stanix) ⭐ 48 | 🐛 0 | 🌐 C | 📅 2026-09-23 - An open source modular hobby OS in C, with features such as dynamic linking and a page cache.
+* [Stanix](https://github.com/tayoky/stanix) ⭐ 48 | 🐛 0 | 🌐 C | 📅 2026-09-25 - An open source modular hobby OS in C, with features such as dynamic linking and a page cache.
 * [nopeos](https://github.com/d99kris/nopeos) ⭐ 48 | 🐛 0 | 🌐 C | 📅 2026-05-17 - Simple OS kernel with BASIC interpreter for x86
 * [hydrogen](https://github.com/mszoek/hydrogen) ⭐ 46 | 🐛 1 | 🌐 C++ | 📅 2020-03-13 - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
 * [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) ⭐ 42 | 🐛 0 | 🌐 C | 📅 2021-09-25 - 32/64 bit operating system written in C for arm platform
@@ -90,8 +90,8 @@ The goal is to collect all kinds of different open source OSs so people can stud
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) ⭐ 20 | 🐛 0 | 🌐 C | 📅 2024-08-16 - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) ⭐ 463 | 🐛 0 | 🌐 Assembly | 📅 2024-08-26 project).
 * [myOS](https://github.com/badnikhil/MyOS) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2026-06-24 - Under development and Maintenance by a single Undergraduate who just wanted his machine to execute his own instructions.
 * [PouplyOS](https://github.com/mtribiere/PoulpyOS) ⭐ 10 | 🐛 0 | 🌐 C | 📅 2023-05-14 - Simple OS for fun and learning, named after the ESISAR mascot Poulpy
+* [Lateralus OS](https://github.com/bad-antics/lateralus-lang) ⭐ 9 | 🐛 16 | 🌐 Python | 📅 2026-08-01 - Bare-metal OS written in Lateralus with its own pipeline-native programming language, compiler, and VM
 * [aurora\_os](https://github.com/Athryx/aurora_os) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-08-03 - Written in Rust.
-* [Lateralus OS](https://github.com/bad-antics/lateralus-lang) ⭐ 8 | 🐛 16 | 🌐 Python | 📅 2026-08-01 - Bare-metal OS written in Lateralus with its own pipeline-native programming language, compiler, and VM
 * [lyre](https://github.com/lyre-os/lyre) ⭐ 8 | 🐛 3 | 🌐 Shell | 📅 2026-03-04 - x86 kernel and distribution powered by mlibc, GNU userland tools, and other common \*nix software.
 * [Equinox OS](https://github.com/amnottdevv/Equinox-os) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2026-09-21 - A 32-bit x86 hobby operating system written from scratch in C++17 featuring a self-hosting C compiler, preemptive multitasking, demand paging, FAT32 read/write, a TCP/IP stack with HTTPS, and a built-in LVGL desktop.
 * [9front](http://9front.org) - A fork of Plan 9, designed for distributed, networked computing.
@@ -131,15 +131,15 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 ### Popular Operating Systems
 
-* [Linux](https://github.com/torvalds/linux) ⭐ 250,032 | 🐛 3 | 🌐 C | 📅 2026-09-24 - Linux kernel
+* [Linux](https://github.com/torvalds/linux) ⭐ 250,152 | 🐛 3 | 🌐 C | 📅 2026-09-25 - Linux kernel
 * [MS-DOS](https://github.com/microsoft/MS-DOS) ⚠️ Archived - The original sources of MS-DOS 1.25 and 2.0
-* [ReactOS](https://reactos.org/), [Github](https://github.com/reactos/reactos) ⭐ 18,110 | 🐛 202 | 🌐 C | 📅 2026-09-24 - A free Windows-compatible Operating System
-* [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) ⭐ 9,329 | 🐛 190 | 🌐 C | 📅 2026-09-24 - Unix-like operating system based on the BSD
-* [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) ⭐ 3,886 | 🐛 1 | 🌐 C | 📅 2026-09-24 - Unix-like operating system based on the BSD
-* [Darwin XNU](https://github.com/apple-oss-distributions/xnu) ⭐ 3,650 | 🐛 1 | 🌐 C | 📅 2026-06-18 - The XNU kernel source code for use in MacOS and iOS
+* [ReactOS](https://reactos.org/), [Github](https://github.com/reactos/reactos) ⭐ 18,120 | 🐛 201 | 🌐 C | 📅 2026-09-25 - A free Windows-compatible Operating System
+* [FreeBSD](https://freebsd.org/), [Github](https://github.com/freebsd/freebsd) ⭐ 9,332 | 🐛 190 | 🌐 C | 📅 2026-09-25 - Unix-like operating system based on the BSD
+* [OpenBSD](https://www.openbsd.org/), [Github](https://github.com/openbsd/src) ⭐ 3,886 | 🐛 1 | 🌐 C | 📅 2026-09-25 - Unix-like operating system based on the BSD
+* [Darwin XNU](https://github.com/apple-oss-distributions/xnu) ⭐ 3,652 | 🐛 1 | 🌐 C | 📅 2026-06-18 - The XNU kernel source code for use in MacOS and iOS
 * [Minix](https://www.minix3.org/), [Github](https://github.com/Stichting-MINIX-Research-Foundation/minix) ⭐ 3,504 | 🐛 126 | 🌐 C | 📅 2024-03-18 - Unix-like operating system based on a microkernel architecture
-* [Haiku](https://github.com/haiku/haiku) ⭐ 2,345 | 🐛 0 | 🌐 C++ | 📅 2026-09-24 - BeOS inspired OS
-* [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) ⭐ 990 | 🐛 16 | 🌐 C | 📅 2026-09-24 - Unix-like operating system based on the BSD
+* [Haiku](https://github.com/haiku/haiku) ⭐ 2,345 | 🐛 0 | 🌐 C++ | 📅 2026-09-25 - BeOS inspired OS
+* [NetBSD](https://www.netbsd.org/), [Github](https://github.com/netbsd/src) ⭐ 990 | 🐛 16 | 🌐 C | 📅 2026-09-25 - Unix-like operating system based on the BSD
 * [FreeDOS](http://freedos.org/) - DOS compatible OS
 * [Plan 9 from Bell Labs](http://9p.io/plan9/) - An OS from the creators of Unix, extending the Unix philosophy of "everything is a file" with a network-centric file system, namespaces and distributed computing.
 * [SystemV](https://archive.org/details/ATTUNIXSystemVRelease4Version2) - AT\&T UNIX System V Source Code
@@ -149,7 +149,7 @@ The goal is to collect all kinds of different open source OSs so people can stud
 ### Online books
 
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,411 | 🐛 86 | 🌐 C | 📅 2021-12-16 - in C++
-* [lytlnyblOS](https://github.com/red-mutt/lytlnyblOS) ⭐ 102 | 🐛 0 | 🌐 C | 📅 2026-09-20 - A beginner-friendly guide to building a 32-bit x86 operating system from scratch.
+* [lytlnyblOS](https://github.com/red-mutt/lytlnyblOS) ⭐ 103 | 🐛 0 | 🌐 C | 📅 2026-09-20 - A beginner-friendly guide to building a 32-bit x86 operating system from scratch.
 * [Intermezzos](https://intermezzos.github.io/book/) - A follow along book to build IntermezzosOS in Rust
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/) - Covers the entire range of kernel tasks, available as chapters or one PDF
 * [The little book about OS development](http://littleosbook.github.io/) by *Erik Helin* and *Adam Renberg*
@@ -162,11 +162,11 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 ### Tutorials
 
-* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) ⭐ 30,725 | 🐛 128 | 🌐 C | 📅 2026-02-04 by Carlos Fenollosa
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,937 | 🐛 66 | 🌐 C | 📅 2024-03-29
-* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) ⭐ 1,261 | 🐛 1 | 📅 2021-03-26 by Greg Kroah-Hartman
-* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os) ⭐ 1,256 | 🐛 2 | 🌐 C | 📅 2025-12-14 by Jim Huang
-* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) ⭐ 687 | 🐛 0 | 🌐 TeX | 📅 2026-09-17 by Greg Kroah-Hartman
+* [os-tutorial - How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial) ⭐ 30,728 | 🐛 128 | 🌐 C | 📅 2026-02-04 by Carlos Fenollosa
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) ⭐ 13,938 | 🐛 66 | 🌐 C | 📅 2024-03-29
+* [How to write a Linux kernel patch and submit it](https://github.com/gregkh/kernel-tutorial) ⭐ 1,262 | 🐛 1 | 📅 2021-03-26 by Greg Kroah-Hartman
+* [Build a minimal multi-tasking OS kernel for ARM from scratch](https://github.com/jserv/mini-arm-os) ⭐ 1,255 | 🐛 2 | 🌐 C | 📅 2025-12-14 by Jim Huang
+* [Presentation on how the Linux kernel is developed](https://github.com/gregkh/kernel-development) ⭐ 688 | 🐛 0 | 🌐 TeX | 📅 2026-09-17 by Greg Kroah-Hartman
 * [mya](https://github.com/flydeoo/mya) ⭐ 11 | 🐛 0 | 🌐 Assembly | 📅 2024-02-21 a fun project to create OS from scratch by Erfan
 * [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html) by University of Cambridge
 * [Bran's Kernel Development](http://www.osdever.net/bkerndev/Docs/title.htm) by Brandon Friesen
@@ -204,9 +204,9 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 ## Linux specific
 
-* [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) ⭐ 6,644 | 🐛 1 | 📅 2026-09-10
+* [xairys Linux Kernel Exploitation](https://github.com/xairy/linux-kernel-exploitation) ⭐ 6,643 | 🐛 1 | 📅 2026-09-10
 
-* [syzkaller](https://github.com/google/syzkaller) ⭐ 6,328 | 🐛 636 | 🌐 Go | 📅 2026-09-24 kernel fuzzer
+* [syzkaller](https://github.com/google/syzkaller) ⭐ 6,329 | 🐛 636 | 🌐 Go | 📅 2026-09-24 kernel fuzzer
 
 * [kernel-security-learning](https://github.com/bsauce/kernel-security-learning) ⭐ 774 | 🐛 0 | 🌐 C | 📅 2026-09-10
 
@@ -328,4 +328,4 @@ The goal is to collect all kinds of different open source OSs so people can stud
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
