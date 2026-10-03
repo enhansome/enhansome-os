@@ -48,7 +48,7 @@
             "open_issues": 12,
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24248,
+            "stars": 24249,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -102,11 +102,11 @@
             "id": 179385712,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T20:34:22Z",
-            "open_issues": 202,
+            "last_commit": "2026-10-02T21:31:31Z",
+            "open_issues": 201,
             "owner": "bottlerocket-os",
             "repo": "bottlerocket",
-            "stars": 9673,
+            "stars": 9674,
             "topics": [
               "containers",
               "linux",
@@ -215,7 +215,7 @@
             "open_issues": 65,
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6855,
+            "stars": 6854,
             "topics": [
               "aarch64",
               "armv8",
@@ -253,10 +253,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T15:52:08Z",
-            "open_issues": 210,
+            "open_issues": 211,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6455,
+            "stars": 6457,
             "topics": [
               "arm",
               "cortex-m",
@@ -314,7 +314,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T15:14:56Z",
-            "open_issues": 372,
+            "open_issues": 373,
             "owner": "unikraft",
             "repo": "unikraft",
             "stars": 3881,
@@ -600,7 +600,7 @@
             "id": 221905326,
             "language": "V",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-02T13:11:12Z",
+            "last_commit": "2026-10-02T22:42:12Z",
             "open_issues": 51,
             "owner": "vlang",
             "repo": "vinix",
@@ -828,7 +828,7 @@
             "open_issues": 15,
             "owner": "LemonOSProject",
             "repo": "LemonOS",
-            "stars": 1298,
+            "stars": 1297,
             "topics": [
               "c",
               "cpp",
@@ -857,7 +857,7 @@
             "open_issues": 170,
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "operating-system",
               "os",
@@ -2135,7 +2135,7 @@
             "id": 908942752,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T18:09:42Z",
+            "last_commit": "2026-10-02T22:35:12Z",
             "open_issues": 0,
             "owner": "tayoky",
             "repo": "stanix",
@@ -2548,11 +2548,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T19:30:24Z",
+                "last_commit": "2026-10-03T03:46:09Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 250854,
+                "stars": 250876,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2573,7 +2573,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32269,
+                "stars": 32268,
                 "topics": [
                   "ms-dos"
                 ]
@@ -2592,8 +2592,8 @@
                 "id": 105627846,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T08:03:19Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-02T21:07:19Z",
+                "open_issues": 201,
                 "owner": "reactos",
                 "repo": "reactos",
                 "stars": 18152,
@@ -2627,7 +2627,7 @@
                 "id": 2328181,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T20:45:09Z",
+                "last_commit": "2026-10-02T22:20:18Z",
                 "open_issues": 196,
                 "owner": "freebsd",
                 "repo": "freebsd-src",
@@ -2648,11 +2648,11 @@
                 "id": 66966208,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-02T18:50:13Z",
+                "last_commit": "2026-10-03T04:50:14Z",
                 "open_issues": 1,
                 "owner": "openbsd",
                 "repo": "src",
-                "stars": 3887,
+                "stars": 3886,
                 "topics": [
                   "openbsd"
                 ]
@@ -2675,7 +2675,7 @@
                 "open_issues": 1,
                 "owner": "apple-oss-distributions",
                 "repo": "xnu",
-                "stars": 3674,
+                "stars": 3675,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2696,7 +2696,7 @@
                 "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3511,
+                "stars": 3510,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2713,7 +2713,7 @@
                 "id": 1904156,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:00:06Z",
+                "last_commit": "2026-10-02T23:00:05Z",
                 "open_issues": 0,
                 "owner": "haiku",
                 "repo": "haiku",
@@ -2738,7 +2738,7 @@
                 "id": 88439547,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-10-02T11:33:22Z",
+                "last_commit": "2026-10-02T23:35:41Z",
                 "open_issues": 16,
                 "owner": "NetBSD",
                 "repo": "src",
@@ -2850,7 +2850,7 @@
             {
               "node_type": "item",
               "title": "Learning operating system development using Linux kernel and Raspberry Pi",
-              "description": null,
+              "description": "s-matyukevich/raspberry-pi-os",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3007,7 +3007,7 @@
         {
           "node_type": "item",
           "title": "xairys Linux Kernel Exploitation",
-          "description": null,
+          "description": "xairy/linux-kernel-exploitation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3044,7 +3044,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T10:23:01Z",
-            "open_issues": 632,
+            "open_issues": 635,
             "owner": "google",
             "repo": "syzkaller",
             "stars": 6334,
@@ -3065,7 +3065,7 @@
         {
           "node_type": "item",
           "title": "kernel-security-learning",
-          "description": null,
+          "description": "bsauce/kernel-security-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3086,7 +3086,7 @@
         {
           "node_type": "item",
           "title": "sam4ks Linux Kernel Resources",
-          "description": null,
+          "description": "sam4k/linux-kernel-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3107,7 +3107,7 @@
         {
           "node_type": "item",
           "title": "fibdrv Linux kernel module that calculates Fibonacci numbers",
-          "description": null,
+          "description": "sysprog21/fibdrv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3248,7 +3248,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:55:49.291Z",
+    "last_updated": "2026-10-03T05:06:47.020Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of operating systems and stuff",
