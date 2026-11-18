@@ -15,11 +15,11 @@
             "id": 160083795,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-17T01:18:54Z",
-            "open_issues": 751,
+            "last_commit": "2026-11-18T22:34:11Z",
+            "open_issues": 747,
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33972,
+            "stars": 33978,
             "topics": [
               "browser",
               "c-plus-plus",
@@ -48,7 +48,7 @@
             "open_issues": 13,
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24316,
+            "stars": 24314,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -65,11 +65,11 @@
             "id": 34275705,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T23:09:09Z",
+            "last_commit": "2026-11-18T22:17:27Z",
             "open_issues": 183,
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16730,
+            "stars": 16735,
             "topics": [
               "bsd",
               "freebsd",
@@ -102,7 +102,7 @@
             "id": 179385712,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T19:58:14Z",
+            "last_commit": "2026-11-18T20:36:56Z",
             "open_issues": 211,
             "owner": "bottlerocket-os",
             "repo": "bottlerocket",
@@ -132,7 +132,7 @@
             "open_issues": 43,
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 7988,
+            "stars": 7992,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -153,7 +153,7 @@
             "open_issues": 163,
             "owner": "NodeOS",
             "repo": "NodeOS",
-            "stars": 7347,
+            "stars": 7348,
             "topics": [
               "javascript",
               "nodejs",
@@ -179,7 +179,7 @@
             "open_issues": 88,
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 7105,
+            "stars": 7106,
             "topics": [
               "c",
               "cocoa",
@@ -215,7 +215,7 @@
             "open_issues": 60,
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6865,
+            "stars": 6866,
             "topics": [
               "aarch64",
               "armv8",
@@ -252,11 +252,11 @@
             "id": 36428094,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T21:49:39Z",
-            "open_issues": 219,
+            "last_commit": "2026-11-18T22:50:31Z",
+            "open_issues": 215,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6498,
+            "stars": 6501,
             "topics": [
               "arm",
               "cortex-m",
@@ -290,7 +290,7 @@
             "open_issues": 24,
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4961,
+            "stars": 4963,
             "topics": [
               "cia",
               "holyc",
@@ -313,8 +313,8 @@
             "id": 181022316,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T15:00:36Z",
-            "open_issues": 408,
+            "last_commit": "2026-11-18T16:26:09Z",
+            "open_issues": 407,
             "owner": "unikraft",
             "repo": "unikraft",
             "stars": 3939,
@@ -356,7 +356,7 @@
             "open_issues": 11,
             "owner": "maestro-os",
             "repo": "maestro",
-            "stars": 3343,
+            "stars": 3344,
             "topics": [
               "kernel",
               "lightweight",
@@ -386,7 +386,7 @@
             "open_issues": 86,
             "owner": "nanovms",
             "repo": "nanos",
-            "stars": 3229,
+            "stars": 3231,
             "topics": [
               "edge",
               "microservice",
@@ -417,7 +417,7 @@
             "open_issues": 70,
             "owner": "theseus-os",
             "repo": "Theseus",
-            "stars": 3228,
+            "stars": 3227,
             "topics": [
               "intralingual",
               "kernel",
@@ -504,11 +504,11 @@
             "id": 27672462,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-17T00:52:37Z",
+            "last_commit": "2026-11-18T17:20:19Z",
             "open_issues": 3,
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2855,
+            "stars": 2876,
             "topics": [
               "darwin",
               "hacktoberfest",
@@ -602,7 +602,7 @@
             "open_issues": 58,
             "owner": "Zeal-Operating-System",
             "repo": "ZealOS",
-            "stars": 2438,
+            "stars": 2440,
             "topics": [
               "holyc",
               "operating-system",
@@ -656,8 +656,8 @@
             "id": 63081862,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-17T22:44:42Z",
-            "open_issues": 223,
+            "last_commit": "2026-11-18T17:16:20Z",
+            "open_issues": 226,
             "owner": "managarm",
             "repo": "managarm",
             "stars": 2002,
@@ -745,7 +745,7 @@
             "open_issues": 10,
             "owner": "HelenOS",
             "repo": "helenos",
-            "stars": 1605,
+            "stars": 1604,
             "topics": [
               "components",
               "drivers",
@@ -882,7 +882,7 @@
             "open_issues": 2,
             "owner": "brutal-org",
             "repo": "brutal",
-            "stars": 1110,
+            "stars": 1111,
             "topics": [
               "c",
               "hobby-os",
@@ -1007,7 +1007,7 @@
             "open_issues": 1,
             "owner": "ReturnInfinity",
             "repo": "BareMetal",
-            "stars": 935,
+            "stars": 936,
             "topics": [
               "assembly",
               "baremetal",
@@ -1150,7 +1150,7 @@
             "open_issues": 9,
             "owner": "frednora",
             "repo": "gramado",
-            "stars": 653,
+            "stars": 654,
             "topics": [
               "gui",
               "kernel",
@@ -1295,12 +1295,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. Supports i386, amd64 and aarch64",
+            "description": "MollenOS/Vali is a modern operating system that is built with focus on abstraction and a modular design, allowing anyone to port it to any architecture. Supports i386, amd64 and aarch64 (uefi, rpi4+)",
             "homepage": "http://www.mollenos.com",
             "id": 19471576,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-16T09:48:29Z",
+            "last_commit": "2026-11-18T20:50:36Z",
             "open_issues": 17,
             "owner": "Meulengracht",
             "repo": "MollenOS",
@@ -1382,11 +1382,11 @@
             "id": 746429507,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-17T02:00:56Z",
+            "last_commit": "2026-11-18T22:22:30Z",
             "open_issues": 1,
             "owner": "zinnia-os",
             "repo": "zinnia",
-            "stars": 389,
+            "stars": 390,
             "topics": [
               "kernel",
               "os",
@@ -1811,7 +1811,7 @@
             "open_issues": 7,
             "owner": "CharlotteOS-Deprecated",
             "repo": "charlotte-core",
-            "stars": 110,
+            "stars": 109,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -1857,7 +1857,7 @@
             "id": 430583309,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-17T06:45:22Z",
+            "last_commit": "2026-11-18T05:27:36Z",
             "open_issues": 0,
             "owner": "DeanoBurrito",
             "repo": "northport",
@@ -2135,7 +2135,7 @@
             "id": 908942752,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T11:45:02Z",
+            "last_commit": "2026-11-18T19:32:14Z",
             "open_issues": 0,
             "owner": "tayoky",
             "repo": "stanix",
@@ -2384,8 +2384,8 @@
             "id": 1200572794,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-17T07:09:14Z",
-            "open_issues": 154,
+            "last_commit": "2026-11-18T07:09:06Z",
+            "open_issues": 172,
             "owner": "bad-antics",
             "repo": "lateralus-lang",
             "stars": 11,
@@ -2519,8 +2519,8 @@
             "id": 1278374424,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-17T20:38:45Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T23:03:28Z",
+            "open_issues": 8,
             "owner": "ccclosed",
             "repo": "Pagh-OS",
             "stars": 3,
@@ -2590,11 +2590,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T20:14:13Z",
+                "last_commit": "2026-11-18T17:55:14Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 256228,
+                "stars": 256120,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2615,7 +2615,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32254,
+                "stars": 32253,
                 "topics": [
                   "ms-dos"
                 ]
@@ -2635,10 +2635,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-17T18:34:51Z",
-                "open_issues": 158,
+                "open_issues": 159,
                 "owner": "reactos",
                 "repo": "reactos",
-                "stars": 18529,
+                "stars": 18531,
                 "topics": [
                   "c",
                   "drivers",
@@ -2669,11 +2669,11 @@
                 "id": 2328181,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T22:10:21Z",
+                "last_commit": "2026-11-18T21:50:10Z",
                 "open_issues": 242,
                 "owner": "freebsd",
                 "repo": "freebsd-src",
-                "stars": 9471,
+                "stars": 9474,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2690,11 +2690,11 @@
                 "id": 66966208,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-17T23:20:12Z",
+                "last_commit": "2026-11-18T21:50:00Z",
                 "open_issues": 1,
                 "owner": "openbsd",
                 "repo": "src",
-                "stars": 3941,
+                "stars": 3943,
                 "topics": [
                   "openbsd"
                 ]
@@ -2717,7 +2717,7 @@
                 "open_issues": 1,
                 "owner": "apple-oss-distributions",
                 "repo": "xnu",
-                "stars": 3900,
+                "stars": 3906,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2735,7 +2735,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2024-03-18T14:58:45Z",
-                "open_issues": 130,
+                "open_issues": 131,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
                 "stars": 3535,
@@ -2755,11 +2755,11 @@
                 "id": 1904156,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-17T21:00:08Z",
+                "last_commit": "2026-11-18T22:00:07Z",
                 "open_issues": 0,
                 "owner": "haiku",
                 "repo": "haiku",
-                "stars": 2384,
+                "stars": 2387,
                 "topics": [
                   "beos",
                   "haiku",
@@ -2780,7 +2780,7 @@
                 "id": 88439547,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-17T20:00:34Z",
+                "last_commit": "2026-11-18T11:34:29Z",
                 "open_issues": 18,
                 "owner": "NetBSD",
                 "repo": "src",
@@ -2884,7 +2884,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30824,
+                "stars": 30829,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2905,7 +2905,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13965,
+                "stars": 13966,
                 "topics": [
                   "arm",
                   "armv8",
@@ -2928,27 +2928,6 @@
             },
             {
               "node_type": "item",
-              "title": "How to write a Linux kernel patch and submit it",
-              "description": "by Greg Kroah-Hartman",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Basic \"How to write a Linux kernel patch and submit it\" tutorial",
-                "homepage": null,
-                "id": 309113,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-03-26T19:32:57Z",
-                "open_issues": 1,
-                "owner": "gregkh",
-                "repo": "kernel-tutorial",
-                "stars": 1264,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:38:53.298Z"
-            },
-            {
-              "node_type": "item",
               "title": "Build a minimal multi-tasking OS kernel for ARM from scratch",
               "description": "by Jim Huang",
               "children": [],
@@ -2963,6 +2942,27 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
+                "stars": 1263,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:38:53.298Z"
+            },
+            {
+              "node_type": "item",
+              "title": "How to write a Linux kernel patch and submit it",
+              "description": "by Greg Kroah-Hartman",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Basic \"How to write a Linux kernel patch and submit it\" tutorial",
+                "homepage": null,
+                "id": 309113,
+                "language": null,
+                "license": null,
+                "last_commit": "2021-03-26T19:32:57Z",
+                "open_issues": 1,
+                "owner": "gregkh",
+                "repo": "kernel-tutorial",
                 "stars": 1263,
                 "topics": []
               },
@@ -3062,7 +3062,7 @@
             "open_issues": 0,
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6692,
+            "stars": 6693,
             "topics": [
               "exploit",
               "kernel-exploitation",
@@ -3085,11 +3085,11 @@
             "id": 44087204,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:49:45Z",
-            "open_issues": 654,
+            "last_commit": "2026-11-18T14:10:11Z",
+            "open_issues": 658,
             "owner": "google",
             "repo": "syzkaller",
-            "stars": 6415,
+            "stars": 6416,
             "topics": [
               "fuzz-testing",
               "fuzzer",
@@ -3290,7 +3290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:38:02.181Z",
+    "last_updated": "2026-11-18T23:03:48.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of operating systems and stuff",
@@ -3302,7 +3302,7 @@
       "open_issues": 1,
       "owner": "jubalh",
       "repo": "awesome-os",
-      "stars": 2324,
+      "stars": 2325,
       "topics": [
         "awesome",
         "awesome-list",
