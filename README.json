@@ -15,7 +15,7 @@
             "id": 160083795,
             "language": "C++",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-22T19:07:24Z",
+            "last_commit": "2026-11-23T13:46:31Z",
             "open_issues": 749,
             "owner": "SerenityOS",
             "repo": "serenity",
@@ -48,7 +48,7 @@
             "open_issues": 13,
             "owner": "felixrieseberg",
             "repo": "windows95",
-            "stars": 24315,
+            "stars": 24316,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -65,11 +65,11 @@
             "id": 34275705,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-22T21:17:28Z",
+            "last_commit": "2026-11-23T23:17:32Z",
             "open_issues": 183,
             "owner": "redox-os",
             "repo": "redox",
-            "stars": 16744,
+            "stars": 16748,
             "topics": [
               "bsd",
               "freebsd",
@@ -132,7 +132,7 @@
             "open_issues": 43,
             "owner": "FreeRTOS",
             "repo": "FreeRTOS",
-            "stars": 8001,
+            "stars": 8003,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -153,7 +153,7 @@
             "open_issues": 163,
             "owner": "NodeOS",
             "repo": "NodeOS",
-            "stars": 7347,
+            "stars": 7345,
             "topics": [
               "javascript",
               "nodejs",
@@ -179,7 +179,7 @@
             "open_issues": 88,
             "owner": "ravynsoft",
             "repo": "ravynos",
-            "stars": 7108,
+            "stars": 7109,
             "topics": [
               "c",
               "cocoa",
@@ -252,11 +252,11 @@
             "id": 36428094,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-20T21:50:14Z",
-            "open_issues": 218,
+            "last_commit": "2026-11-23T21:59:45Z",
+            "open_issues": 216,
             "owner": "tock",
             "repo": "tock",
-            "stars": 6513,
+            "stars": 6515,
             "topics": [
               "arm",
               "cortex-m",
@@ -290,7 +290,7 @@
             "open_issues": 24,
             "owner": "cia-foundation",
             "repo": "TempleOS",
-            "stars": 4969,
+            "stars": 4971,
             "topics": [
               "cia",
               "holyc",
@@ -314,10 +314,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-20T07:40:38Z",
-            "open_issues": 408,
+            "open_issues": 409,
             "owner": "unikraft",
             "repo": "unikraft",
-            "stars": 3941,
+            "stars": 3945,
             "topics": [
               "application",
               "cloud",
@@ -356,7 +356,7 @@
             "open_issues": 11,
             "owner": "maestro-os",
             "repo": "maestro",
-            "stars": 3344,
+            "stars": 3345,
             "topics": [
               "kernel",
               "lightweight",
@@ -417,7 +417,7 @@
             "open_issues": 70,
             "owner": "theseus-os",
             "repo": "Theseus",
-            "stars": 3227,
+            "stars": 3228,
             "topics": [
               "intralingual",
               "kernel",
@@ -478,7 +478,7 @@
             "open_issues": 7,
             "owner": "skift-org",
             "repo": "skift",
-            "stars": 2991,
+            "stars": 2990,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -505,10 +505,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-11-22T07:02:42Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "PureDarwin",
             "repo": "PureDarwin",
-            "stars": 2899,
+            "stars": 2908,
             "topics": [
               "darwin",
               "hacktoberfest",
@@ -550,7 +550,7 @@
             "id": 221905326,
             "language": "V",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-22T21:57:50Z",
+            "last_commit": "2026-11-23T12:15:14Z",
             "open_issues": 44,
             "owner": "vlang",
             "repo": "vinix",
@@ -602,7 +602,7 @@
             "open_issues": 58,
             "owner": "Zeal-Operating-System",
             "repo": "ZealOS",
-            "stars": 2442,
+            "stars": 2443,
             "topics": [
               "holyc",
               "operating-system",
@@ -656,8 +656,8 @@
             "id": 63081862,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-22T19:08:57Z",
-            "open_issues": 227,
+            "last_commit": "2026-11-23T21:46:16Z",
+            "open_issues": 226,
             "owner": "managarm",
             "repo": "managarm",
             "stars": 2005,
@@ -689,7 +689,7 @@
             "open_issues": 2,
             "owner": "o8vm",
             "repo": "octox",
-            "stars": 1910,
+            "stars": 1911,
             "topics": [
               "osdev",
               "riscv",
@@ -853,11 +853,11 @@
             "id": 448203875,
             "language": "Rust",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-20T17:24:16Z",
-            "open_issues": 155,
+            "last_commit": "2026-11-24T02:55:21Z",
+            "open_issues": 153,
             "owner": "DragonOS-Community",
             "repo": "DragonOS",
-            "stars": 1230,
+            "stars": 1231,
             "topics": [
               "operating-system",
               "os",
@@ -1146,7 +1146,7 @@
             "id": 102483713,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-22T20:30:41Z",
+            "last_commit": "2026-11-23T21:25:35Z",
             "open_issues": 9,
             "owner": "frednora",
             "repo": "gramado",
@@ -1382,7 +1382,7 @@
             "id": 746429507,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-22T18:26:25Z",
+            "last_commit": "2026-11-24T00:23:05Z",
             "open_issues": 1,
             "owner": "zinnia-os",
             "repo": "zinnia",
@@ -1580,7 +1580,7 @@
             "id": 450146946,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-06T18:25:58Z",
+            "last_commit": "2026-11-24T00:12:54Z",
             "open_issues": 1,
             "owner": "sasdallas",
             "repo": "Ethereal",
@@ -1857,7 +1857,7 @@
             "id": 430583309,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:26:36Z",
+            "last_commit": "2026-11-23T03:56:11Z",
             "open_issues": 0,
             "owner": "DeanoBurrito",
             "repo": "northport",
@@ -2046,6 +2046,37 @@
         },
         {
           "node_type": "item",
+          "title": "KiddieOS",
+          "description": "UNIX-like 64-bit operating system written in Assembly, C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "O KiddieOS é um sistema operacional open-source básico em desenvolvimento pelo curso gratuito D.S.O.S [Desenvolvendo Sistemas Operacionais Simples]. A intenção deste sistema será: Criar, editar ou excluir arquivos, codificar em uma linguagem própria do sistema, criar objetos visuais e automatizados (desenhos) através desta linguagem, utilizar uma interface simples e intuitiva, criar novas interfaces gráficas, como: Janelas, botões, campos, etc... e estimular crianças, jovens e adultos a programar numa linguagem simples dentro do sistema operacional KiddieOS. A intenção do curso D.S.O.S é dá início ao desenvolvimento de sistemas operacionais utilizando a linguagem Assembly e entender a fundo sobre diversos conceitos internos deste tipo de sistema. Aqui neste repositório serão armazenados arquivos de APIs do KiddieOS, a imagem de disco para teste e futuramente - todo o sistema operacional completo. Visite o link abaixo para nos acompanhar no curso do Youtube, se inscreva neste canal para se manter atualizado e siga-me no GitHub. Vejo vocês lá:",
+            "homepage": null,
+            "id": 291154575,
+            "language": "Assembly",
+            "license": "MIT",
+            "last_commit": "2025-10-14T01:42:35Z",
+            "open_issues": 3,
+            "owner": "FrancisBFTC",
+            "repo": "KiddieOS_Development",
+            "stars": 65,
+            "topics": [
+              "assembly-x86",
+              "kernel",
+              "kiddieos",
+              "operating-system",
+              "operating-system-kernel",
+              "osdev",
+              "osdev-projects",
+              "programming-language",
+              "programs"
+            ]
+          },
+          "first_seen": "2026-08-29T00:38:53.298Z"
+        },
+        {
+          "node_type": "item",
           "title": "JSD-OS",
           "description": "A small operating system for 32 bit x86.",
           "children": [],
@@ -2073,37 +2104,6 @@
         },
         {
           "node_type": "item",
-          "title": "KiddieOS",
-          "description": "UNIX-like 64-bit operating system written in Assembly, C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "O KiddieOS é um sistema operacional open-source básico em desenvolvimento pelo curso gratuito D.S.O.S [Desenvolvendo Sistemas Operacionais Simples]. A intenção deste sistema será: Criar, editar ou excluir arquivos, codificar em uma linguagem própria do sistema, criar objetos visuais e automatizados (desenhos) através desta linguagem, utilizar uma interface simples e intuitiva, criar novas interfaces gráficas, como: Janelas, botões, campos, etc... e estimular crianças, jovens e adultos a programar numa linguagem simples dentro do sistema operacional KiddieOS. A intenção do curso D.S.O.S é dá início ao desenvolvimento de sistemas operacionais utilizando a linguagem Assembly e entender a fundo sobre diversos conceitos internos deste tipo de sistema. Aqui neste repositório serão armazenados arquivos de APIs do KiddieOS, a imagem de disco para teste e futuramente - todo o sistema operacional completo. Visite o link abaixo para nos acompanhar no curso do Youtube, se inscreva neste canal para se manter atualizado e siga-me no GitHub. Vejo vocês lá:",
-            "homepage": null,
-            "id": 291154575,
-            "language": "Assembly",
-            "license": "MIT",
-            "last_commit": "2025-10-14T01:42:35Z",
-            "open_issues": 3,
-            "owner": "FrancisBFTC",
-            "repo": "KiddieOS_Development",
-            "stars": 64,
-            "topics": [
-              "assembly-x86",
-              "kernel",
-              "kiddieos",
-              "operating-system",
-              "operating-system-kernel",
-              "osdev",
-              "osdev-projects",
-              "programming-language",
-              "programs"
-            ]
-          },
-          "first_seen": "2026-08-29T00:38:53.298Z"
-        },
-        {
-          "node_type": "item",
           "title": "Mako",
           "description": "Hobby OS for x86 from scratch, written in C",
           "children": [],
@@ -2118,7 +2118,7 @@
             "open_issues": 0,
             "owner": "AjayMT",
             "repo": "mako",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2384,8 +2384,8 @@
             "id": 1200572794,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-22T07:07:59Z",
-            "open_issues": 765,
+            "last_commit": "2026-11-23T07:09:41Z",
+            "open_issues": 874,
             "owner": "bad-antics",
             "repo": "lateralus-lang",
             "stars": 11,
@@ -2590,11 +2590,11 @@
                 "id": 2325298,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T18:26:33Z",
+                "last_commit": "2026-11-24T01:53:57Z",
                 "open_issues": 3,
                 "owner": "torvalds",
                 "repo": "linux",
-                "stars": 256476,
+                "stars": 256470,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2615,7 +2615,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "MS-DOS",
-                "stars": 32251,
+                "stars": 32252,
                 "topics": [
                   "ms-dos"
                 ]
@@ -2634,11 +2634,11 @@
                 "id": 105627846,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-11-21T22:11:33Z",
-                "open_issues": 164,
+                "last_commit": "2026-11-23T23:57:11Z",
+                "open_issues": 141,
                 "owner": "reactos",
                 "repo": "reactos",
-                "stars": 18554,
+                "stars": 18562,
                 "topics": [
                   "c",
                   "drivers",
@@ -2669,11 +2669,11 @@
                 "id": 2328181,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-22T21:40:20Z",
-                "open_issues": 254,
+                "last_commit": "2026-11-24T00:35:10Z",
+                "open_issues": 257,
                 "owner": "freebsd",
                 "repo": "freebsd-src",
-                "stars": 9480,
+                "stars": 9478,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2690,7 +2690,7 @@
                 "id": 66966208,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-22T19:50:09Z",
+                "last_commit": "2026-11-24T01:20:08Z",
                 "open_issues": 1,
                 "owner": "openbsd",
                 "repo": "src",
@@ -2717,7 +2717,7 @@
                 "open_issues": 1,
                 "owner": "apple-oss-distributions",
                 "repo": "xnu",
-                "stars": 3918,
+                "stars": 3933,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2755,7 +2755,7 @@
                 "id": 1904156,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-21T18:00:06Z",
+                "last_commit": "2026-11-23T19:00:06Z",
                 "open_issues": 0,
                 "owner": "haiku",
                 "repo": "haiku",
@@ -2780,11 +2780,11 @@
                 "id": 88439547,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-11-22T19:22:06Z",
+                "last_commit": "2026-11-23T22:48:08Z",
                 "open_issues": 19,
                 "owner": "NetBSD",
                 "repo": "src",
-                "stars": 1022,
+                "stars": 1023,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2818,7 +2818,7 @@
                 "open_issues": 86,
                 "owner": "SamyPesse",
                 "repo": "How-to-Make-a-Computer-Operating-System",
-                "stars": 22394,
+                "stars": 22392,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2884,7 +2884,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30834,
+                "stars": 30836,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -2905,7 +2905,7 @@
                 "open_issues": 66,
                 "owner": "s-matyukevich",
                 "repo": "raspberry-pi-os",
-                "stars": 13966,
+                "stars": 13964,
                 "topics": [
                   "arm",
                   "armv8",
@@ -2942,7 +2942,7 @@
                 "open_issues": 2,
                 "owner": "jserv",
                 "repo": "mini-arm-os",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:53.298Z"
@@ -3062,7 +3062,7 @@
             "open_issues": 0,
             "owner": "xairy",
             "repo": "linux-kernel-exploitation",
-            "stars": 6698,
+            "stars": 6699,
             "topics": [
               "exploit",
               "kernel-exploitation",
@@ -3085,11 +3085,11 @@
             "id": 44087204,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T18:18:30Z",
-            "open_issues": 659,
+            "last_commit": "2026-11-23T15:13:38Z",
+            "open_issues": 662,
             "owner": "google",
             "repo": "syzkaller",
-            "stars": 6421,
+            "stars": 6424,
             "topics": [
               "fuzz-testing",
               "fuzzer",
@@ -3186,7 +3186,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-11-17T21:25:12Z",
-                "open_issues": 32,
+                "open_issues": 34,
                 "owner": "arighi",
                 "repo": "virtme-ng",
                 "stars": 927,
@@ -3290,7 +3290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T21:58:39.130Z",
+    "last_updated": "2026-11-24T03:00:24.983Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of operating systems and stuff",
